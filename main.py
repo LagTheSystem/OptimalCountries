@@ -1,5 +1,4 @@
 import json
-from types import SimpleNamespace
 
 with open('countrydata.json', 'r') as file:
     data = json.load(file)
