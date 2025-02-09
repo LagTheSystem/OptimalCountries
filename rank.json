@@ -1,826 +1,2238 @@
 [
     {
-        "name": "Korea (Democratic People's Rep. of)",
-        "total": 0.21143103448275863
-    },
-    {
-        "name": "South Sudan",
-        "total": 0.22600896875632182
-    },
-    {
         "name": "Central African Republic",
-        "total": 0.24223431960206374
-    },
-    {
-        "name": "Chad",
-        "total": 0.24993723558869385
+        "tfr_score": 0,
+        "imr": 4,
+        "rni_score": 30,
+        "gnipc": 3,
+        "hdi": 3,
+        "life_expectancy": 3,
+        "education": 3,
+        "gii": 160,
+        "pop_online": 10,
+        "wins": 0
     },
     {
         "name": "Somalia",
-        "total": 0.2517013837847074
-    },
-    {
-        "name": "Mali",
-        "total": 0.2575194926790961
+        "tfr_score": 3,
+        "imr": 2,
+        "rni_score": 1,
+        "gnipc": 4,
+        "hdi": 1,
+        "life_expectancy": 5,
+        "education": 5,
+        "gii": 2,
+        "pop_online": 26,
+        "wins": 1
     },
     {
         "name": "Niger",
-        "total": 0.26432908645679204
+        "tfr_score": 1,
+        "imr": 3,
+        "rni_score": 0,
+        "gnipc": 7,
+        "hdi": 4,
+        "life_expectancy": 25,
+        "education": 2,
+        "gii": 11,
+        "pop_online": 14,
+        "wins": 3
     },
     {
-        "name": "Burkina Faso",
-        "total": 0.2704809194979206
+        "name": "Chad",
+        "tfr_score": 2,
+        "imr": 5,
+        "rni_score": 2,
+        "gnipc": 10,
+        "hdi": 5,
+        "life_expectancy": 0,
+        "education": 11,
+        "gii": 3,
+        "pop_online": 13,
+        "wins": 3
     },
     {
-        "name": "Yemen",
-        "total": 0.2769633416766196
+        "name": "South Sudan",
+        "tfr_score": 31,
+        "imr": 6,
+        "rni_score": 47,
+        "gnipc": 1,
+        "hdi": 2,
+        "life_expectancy": 4,
+        "education": 0,
+        "gii": 167,
+        "pop_online": 12,
+        "wins": 4
     },
     {
-        "name": "Eritrea",
-        "total": 0.2810828781746708
-    },
-    {
-        "name": "Sierra Leone",
-        "total": 0.28142888549893413
-    },
-    {
-        "name": "Congo (Democratic Republic of the)",
-        "total": 0.28413355421253395
-    },
-    {
-        "name": "Lesotho",
-        "total": 0.28723266793512015
-    },
-    {
-        "name": "Djibouti",
-        "total": 0.28810923145240336
-    },
-    {
-        "name": "Nigeria",
-        "total": 0.2894453389671055
-    },
-    {
-        "name": "Gambia",
-        "total": 0.2897513779103344
-    },
-    {
-        "name": "Low human development",
-        "total": 0.2929050376774242
-    },
-    {
-        "name": "Guinea",
-        "total": 0.29342178106617556
+        "name": "Mali",
+        "tfr_score": 4,
+        "imr": 7,
+        "rni_score": 3,
+        "gnipc": 18,
+        "hdi": 6,
+        "life_expectancy": 10,
+        "education": 1,
+        "gii": 13,
+        "pop_online": 34,
+        "wins": 5
     },
     {
         "name": "Burundi",
-        "total": 0.29372255387263113
+        "tfr_score": 7,
+        "imr": 28,
+        "rni_score": 12,
+        "gnipc": 2,
+        "hdi": 7,
+        "life_expectancy": 23,
+        "education": 19,
+        "gii": 35,
+        "pop_online": 11,
+        "wins": 7
     },
     {
-        "name": "Mauritania",
-        "total": 0.295203857470465
-    },
-    {
-        "name": "Sudan",
-        "total": 0.29676849884063217
-    },
-    {
-        "name": "Madagascar",
-        "total": 0.2970191568076019
+        "name": "Yemen",
+        "tfr_score": 11,
+        "imr": 29,
+        "rni_score": 10,
+        "gnipc": 5,
+        "hdi": 8,
+        "life_expectancy": 33,
+        "education": 7,
+        "gii": 0,
+        "pop_online": 2,
+        "wins": 7
     },
     {
         "name": "Mozambique",
-        "total": 0.2972790203347335
-    },
-    {
-        "name": "Guinea-Bissau",
-        "total": 0.2979587351557889
-    },
-    {
-        "name": "Tanzania (United Republic of)",
-        "total": 0.29806138048799896
-    },
-    {
-        "name": "Pakistan",
-        "total": 0.29852505483607106
-    },
-    {
-        "name": "Liberia",
-        "total": 0.2989396012685266
-    },
-    {
-        "name": "Benin",
-        "total": 0.30070995701570535
-    },
-    {
-        "name": "C\u00f4te d'Ivoire",
-        "total": 0.3020116507813793
-    },
-    {
-        "name": "Zimbabwe",
-        "total": 0.3028842808892058
-    },
-    {
-        "name": "Sub-Saharan Africa",
-        "total": 0.3037227764082445
-    },
-    {
-        "name": "Syrian Arab Republic",
-        "total": 0.30404300537223095
+        "tfr_score": 8,
+        "imr": 24,
+        "rni_score": 6,
+        "gnipc": 6,
+        "hdi": 11,
+        "life_expectancy": 11,
+        "education": 28,
+        "gii": 42,
+        "pop_online": 20,
+        "wins": 9
     },
     {
         "name": "Afghanistan",
-        "total": 0.30678956681768027
+        "tfr_score": 9,
+        "imr": 17,
+        "rni_score": 7,
+        "gnipc": 9,
+        "hdi": 12,
+        "life_expectancy": 27,
+        "education": 27,
+        "gii": 4,
+        "pop_online": 16,
+        "wins": 9
     },
     {
-        "name": "Ethiopia",
-        "total": 0.30947118597914314
+        "name": "Burkina Faso",
+        "tfr_score": 13,
+        "imr": 38,
+        "rni_score": 16,
+        "gnipc": 17,
+        "hdi": 9,
+        "life_expectancy": 12,
+        "education": 10,
+        "gii": 19,
+        "pop_online": 18,
+        "wins": 11
     },
     {
-        "name": "Senegal",
-        "total": 0.3106136636834535
+        "name": "Sierra Leone",
+        "tfr_score": 32,
+        "imr": 0,
+        "rni_score": 36,
+        "gnipc": 13,
+        "hdi": 10,
+        "life_expectancy": 15,
+        "education": 14,
+        "gii": 9,
+        "pop_online": 29,
+        "wins": 12
     },
     {
-        "name": "Zambia",
-        "total": 0.3133235659786311
+        "name": "C\u00f4te d'Ivoire",
+        "tfr_score": 19,
+        "imr": 12,
+        "rni_score": 19,
+        "gnipc": 53,
+        "hdi": 26,
+        "life_expectancy": 7,
+        "education": 20,
+        "gii": 10,
+        "pop_online": 4,
+        "wins": 13
+    },
+    {
+        "name": "Liberia",
+        "tfr_score": 27,
+        "imr": 10,
+        "rni_score": 20,
+        "gnipc": 8,
+        "hdi": 15,
+        "life_expectancy": 17,
+        "education": 24,
+        "gii": 5,
+        "pop_online": 28,
+        "wins": 13
+    },
+    {
+        "name": "Guinea",
+        "tfr_score": 23,
+        "imr": 8,
+        "rni_score": 15,
+        "gnipc": 26,
+        "hdi": 13,
+        "life_expectancy": 8,
+        "education": 21,
+        "gii": 12,
+        "pop_online": 36,
+        "wins": 13
+    },
+    {
+        "name": "Benin",
+        "tfr_score": 10,
+        "imr": 19,
+        "rni_score": 23,
+        "gnipc": 33,
+        "hdi": 20,
+        "life_expectancy": 14,
+        "education": 23,
+        "gii": 6,
+        "pop_online": 35,
+        "wins": 17
+    },
+    {
+        "name": "Guinea-Bissau",
+        "tfr_score": 33,
+        "imr": 14,
+        "rni_score": 31,
+        "gnipc": 15,
+        "hdi": 14,
+        "life_expectancy": 13,
+        "education": 26,
+        "gii": 7,
+        "pop_online": 31,
+        "wins": 17
+    },
+    {
+        "name": "Madagascar",
+        "tfr_score": 24,
+        "imr": 20,
+        "rni_score": 24,
+        "gnipc": 12,
+        "hdi": 16,
+        "life_expectancy": 40,
+        "education": 16,
+        "gii": 20,
+        "pop_online": 19,
+        "wins": 18
+    },
+    {
+        "name": "Gambia",
+        "tfr_score": 28,
+        "imr": 42,
+        "rni_score": 25,
+        "gnipc": 20,
+        "hdi": 19,
+        "life_expectancy": 29,
+        "education": 13,
+        "gii": 16,
+        "pop_online": 6,
+        "wins": 19
+    },
+    {
+        "name": "Nigeria",
+        "tfr_score": 12,
+        "imr": 1,
+        "rni_score": 42,
+        "gnipc": 43,
+        "hdi": 30,
+        "life_expectancy": 2,
+        "education": 25,
+        "gii": 1,
+        "pop_online": 38,
+        "wins": 19
+    },
+    {
+        "name": "Mauritania",
+        "tfr_score": 5,
+        "imr": 32,
+        "rni_score": 8,
+        "gnipc": 51,
+        "hdi": 28,
+        "life_expectancy": 37,
+        "education": 9,
+        "gii": 15,
+        "pop_online": 48,
+        "wins": 20
     },
     {
         "name": "Malawi",
-        "total": 0.3162534577545873
+        "tfr_score": 40,
+        "imr": 40,
+        "rni_score": 13,
+        "gnipc": 11,
+        "hdi": 21,
+        "life_expectancy": 28,
+        "education": 41,
+        "gii": 17,
+        "pop_online": 15,
+        "wins": 21
     },
     {
-        "name": "Haiti",
-        "total": 0.319028759069791
+        "name": "Sudan",
+        "tfr_score": 18,
+        "imr": 26,
+        "rni_score": 14,
+        "gnipc": 36,
+        "hdi": 23,
+        "life_expectancy": 42,
+        "education": 12,
+        "gii": 25,
+        "pop_online": 27,
+        "wins": 22
     },
     {
         "name": "Uganda",
-        "total": 0.3209674837643782
+        "tfr_score": 16,
+        "imr": 43,
+        "rni_score": 5,
+        "gnipc": 22,
+        "hdi": 32,
+        "life_expectancy": 31,
+        "education": 40,
+        "gii": 27,
+        "pop_online": 9,
+        "wins": 24
     },
     {
-        "name": "Kenya",
-        "total": 0.32371380032390806
-    },
-    {
-        "name": "Solomon Islands",
-        "total": 0.3279128861475235
-    },
-    {
-        "name": "Papua New Guinea",
-        "total": 0.32834960245104494
-    },
-    {
-        "name": "Rwanda",
-        "total": 0.32998030617281093
-    },
-    {
-        "name": "Namibia",
-        "total": 0.3311390904083699
+        "name": "Zambia",
+        "tfr_score": 21,
+        "imr": 25,
+        "rni_score": 9,
+        "gnipc": 30,
+        "hdi": 38,
+        "life_expectancy": 21,
+        "education": 32,
+        "gii": 28,
+        "pop_online": 30,
+        "wins": 25
     },
     {
         "name": "Togo",
-        "total": 0.3316573454378892
+        "tfr_score": 20,
+        "imr": 22,
+        "rni_score": 29,
+        "gnipc": 21,
+        "hdi": 29,
+        "life_expectancy": 20,
+        "education": 75,
+        "gii": 18,
+        "pop_online": 40,
+        "wins": 25
     },
     {
-        "name": "Congo",
-        "total": 0.33195906339919545
+        "name": "Ethiopia",
+        "tfr_score": 26,
+        "imr": 39,
+        "rni_score": 17,
+        "gnipc": 25,
+        "hdi": 17,
+        "life_expectancy": 43,
+        "education": 17,
+        "gii": 38,
+        "pop_online": 17,
+        "wins": 26
     },
     {
-        "name": "Ghana",
-        "total": 0.3333465097
+        "name": "Zimbabwe",
+        "tfr_score": 35,
+        "imr": 31,
+        "rni_score": 28,
+        "gnipc": 19,
+        "hdi": 33,
+        "life_expectancy": 9,
+        "education": 33,
+        "gii": 32,
+        "pop_online": 32,
+        "wins": 27
     },
     {
-        "name": "Angola",
-        "total": 0.333984372539906
+        "name": "Lesotho",
+        "tfr_score": 98,
+        "imr": 9,
+        "rni_score": 61,
+        "gnipc": 27,
+        "hdi": 25,
+        "life_expectancy": 1,
+        "education": 34,
+        "gii": 24,
+        "pop_online": 51,
+        "wins": 28
     },
     {
-        "name": "Honduras",
-        "total": 0.3340146190392842
+        "name": "Eritrea",
+        "tfr_score": 34,
+        "imr": 50,
+        "rni_score": 26,
+        "gnipc": 16,
+        "hdi": 18,
+        "life_expectancy": 49,
+        "education": 4,
+        "gii": 153,
+        "pop_online": 22,
+        "wins": 28
     },
     {
         "name": "Cameroon",
-        "total": 0.339494800679697
+        "tfr_score": 15,
+        "imr": 16,
+        "rni_score": 11,
+        "gnipc": 37,
+        "hdi": 40,
+        "life_expectancy": 16,
+        "education": 87,
+        "gii": 23,
+        "pop_online": 46,
+        "wins": 29
     },
     {
-        "name": "Tuvalu",
-        "total": 0.33972820420854755
+        "name": "Angola",
+        "tfr_score": 6,
+        "imr": 15,
+        "rni_score": 4,
+        "gnipc": 50,
+        "hdi": 41,
+        "life_expectancy": 22,
+        "education": 56,
+        "gii": 31,
+        "pop_online": 42,
+        "wins": 29
     },
     {
-        "name": "Lao People's Democratic Republic",
-        "total": 0.3398560500378683
+        "name": "Haiti",
+        "tfr_score": 138,
+        "imr": 23,
+        "rni_score": 63,
+        "gnipc": 28,
+        "hdi": 34,
+        "life_expectancy": 34,
+        "education": 36,
+        "gii": 8,
+        "pop_online": 41,
+        "wins": 31
     },
     {
-        "name": "Kiribati",
-        "total": 0.3400214440089342
+        "name": "Congo",
+        "tfr_score": 29,
+        "imr": 36,
+        "rni_score": 21,
+        "gnipc": 29,
+        "hdi": 42,
+        "life_expectancy": 30,
+        "education": 60,
+        "gii": 21,
+        "pop_online": 0,
+        "wins": 32
+    },
+    {
+        "name": "Pakistan",
+        "tfr_score": 37,
+        "imr": 13,
+        "rni_score": 39,
+        "gnipc": 52,
+        "hdi": 27,
+        "life_expectancy": 48,
+        "education": 6,
+        "gii": 30,
+        "pop_online": 33,
+        "wins": 33
+    },
+    {
+        "name": "Senegal",
+        "tfr_score": 25,
+        "imr": 37,
+        "rni_score": 35,
+        "gnipc": 35,
+        "hdi": 24,
+        "life_expectancy": 54,
+        "education": 15,
+        "gii": 34,
+        "pop_online": 59,
+        "wins": 36
     },
     {
         "name": "Comoros",
-        "total": 0.34201282419439916
+        "tfr_score": 17,
+        "imr": 41,
+        "rni_score": 18,
+        "gnipc": 32,
+        "hdi": 39,
+        "life_expectancy": 32,
+        "education": 80,
+        "gii": 156,
+        "pop_online": 25,
+        "wins": 36
     },
     {
-        "name": "Myanmar",
-        "total": 0.34377918018003134
-    },
-    {
-        "name": "Tajikistan",
-        "total": 0.3442953753271891
-    },
-    {
-        "name": "Cambodia",
-        "total": 0.3465286949317346
-    },
-    {
-        "name": "Vanuatu",
-        "total": 0.34759932670413796
-    },
-    {
-        "name": "Equatorial Guinea",
-        "total": 0.34923152410909086
-    },
-    {
-        "name": "Guatemala",
-        "total": 0.3496817227452247
+        "name": "Rwanda",
+        "tfr_score": 43,
+        "imr": 30,
+        "rni_score": 43,
+        "gnipc": 24,
+        "hdi": 31,
+        "life_expectancy": 50,
+        "education": 37,
+        "gii": 60,
+        "pop_online": 37,
+        "wins": 36
     },
     {
         "name": "Timor-Leste",
-        "total": 0.3543420393670742
+        "tfr_score": 42,
+        "imr": 18,
+        "rni_score": 33,
+        "gnipc": 14,
+        "hdi": 36,
+        "life_expectancy": 59,
+        "education": 84,
+        "gii": 55,
+        "pop_online": 43,
+        "wins": 37
     },
     {
-        "name": "South Asia",
-        "total": 0.3548489699162069
+        "name": "Papua New Guinea",
+        "tfr_score": 57,
+        "imr": 35,
+        "rni_score": 49,
+        "gnipc": 38,
+        "hdi": 37,
+        "life_expectancy": 46,
+        "education": 35,
+        "gii": 14,
+        "pop_online": 24,
+        "wins": 38
     },
     {
-        "name": "Sao Tome and Principe",
-        "total": 0.3551034864990073
+        "name": "Kenya",
+        "tfr_score": 45,
+        "imr": 34,
+        "rni_score": 44,
+        "gnipc": 46,
+        "hdi": 44,
+        "life_expectancy": 24,
+        "education": 38,
+        "gii": 26,
+        "pop_online": 44,
+        "wins": 41
     },
     {
-        "name": "Medium human development",
-        "total": 0.35669546793180773
+        "name": "Solomon Islands",
+        "tfr_score": 41,
+        "imr": 78,
+        "rni_score": 38,
+        "gnipc": 23,
+        "hdi": 35,
+        "life_expectancy": 71,
+        "education": 22,
+        "gii": 168,
+        "pop_online": 50,
+        "wins": 41
     },
     {
-        "name": "Micronesia (Federated States of)",
-        "total": 0.359524139166186
+        "name": "Ghana",
+        "tfr_score": 30,
+        "imr": 46,
+        "rni_score": 41,
+        "gnipc": 54,
+        "hdi": 46,
+        "life_expectancy": 35,
+        "education": 44,
+        "gii": 33,
+        "pop_online": 66,
+        "wins": 44
     },
     {
-        "name": "Eswatini (Kingdom of)",
-        "total": 0.3595510501766876
+        "name": "Equatorial Guinea",
+        "tfr_score": 22,
+        "imr": 11,
+        "rni_score": 34,
+        "gnipc": 75,
+        "hdi": 54,
+        "life_expectancy": 18,
+        "education": 55,
+        "gii": 152,
+        "pop_online": 64,
+        "wins": 46
     },
     {
-        "name": "Nepal",
-        "total": 0.35964647061536054
+        "name": "Kiribati",
+        "tfr_score": 56,
+        "imr": 21,
+        "rni_score": 46,
+        "gnipc": 34,
+        "hdi": 51,
+        "life_expectancy": 52,
+        "education": 46,
+        "gii": 159,
+        "pop_online": 55,
+        "wins": 46
     },
     {
-        "name": "India",
-        "total": 0.3608317906903031
+        "name": "Djibouti",
+        "tfr_score": 130,
+        "imr": 27,
+        "rni_score": 72,
+        "gnipc": 47,
+        "hdi": 22,
+        "life_expectancy": 26,
+        "education": 8,
+        "gii": 161,
+        "pop_online": 63,
+        "wins": 46
     },
     {
-        "name": "Kyrgyzstan",
-        "total": 0.36614886553081505
+        "name": "Namibia",
+        "tfr_score": 82,
+        "imr": 44,
+        "rni_score": 53,
+        "gnipc": 68,
+        "hdi": 48,
+        "life_expectancy": 6,
+        "education": 45,
+        "gii": 47,
+        "pop_online": 61,
+        "wins": 47
     },
     {
-        "name": "Samoa",
-        "total": 0.3665051100481296
+        "name": "Cambodia",
+        "tfr_score": 104,
+        "imr": 62,
+        "rni_score": 66,
+        "gnipc": 41,
+        "hdi": 43,
+        "life_expectancy": 62,
+        "education": 43,
+        "gii": 39,
+        "pop_online": 56,
+        "wins": 48
+    },
+    {
+        "name": "Tajikistan",
+        "tfr_score": 44,
+        "imr": 56,
+        "rni_score": 45,
+        "gnipc": 45,
+        "hdi": 61,
+        "life_expectancy": 74,
+        "education": 30,
+        "gii": 88,
+        "pop_online": 39,
+        "wins": 48
     },
     {
         "name": "Gabon",
-        "total": 0.3673883875962382
+        "tfr_score": 38,
+        "imr": 45,
+        "rni_score": 40,
+        "gnipc": 78,
+        "hdi": 64,
+        "life_expectancy": 44,
+        "education": 62,
+        "gii": 29,
+        "pop_online": 76,
+        "wins": 49
     },
     {
-        "name": "Suriname",
-        "total": 0.3675484316832288
+        "name": "Vanuatu",
+        "tfr_score": 39,
+        "imr": 77,
+        "rni_score": 27,
+        "gnipc": 31,
+        "hdi": 49,
+        "life_expectancy": 68,
+        "education": 47,
+        "gii": 155,
+        "pop_online": 67,
+        "wins": 49
+    },
+    {
+        "name": "Myanmar",
+        "tfr_score": 155,
+        "imr": 51,
+        "rni_score": 91,
+        "gnipc": 40,
+        "hdi": 47,
+        "life_expectancy": 51,
+        "education": 53,
+        "gii": 41,
+        "pop_online": 47,
+        "wins": 50
+    },
+    {
+        "name": "Guatemala",
+        "tfr_score": 142,
+        "imr": 68,
+        "rni_score": 55,
+        "gnipc": 65,
+        "hdi": 52,
+        "life_expectancy": 58,
+        "education": 29,
+        "gii": 43,
+        "pop_online": 54,
+        "wins": 52
     },
     {
         "name": "Botswana",
-        "total": 0.3687143748259143
+        "tfr_score": 77,
+        "imr": 48,
+        "rni_score": 50,
+        "gnipc": 94,
+        "hdi": 71,
+        "life_expectancy": 45,
+        "education": 39,
+        "gii": 40,
+        "pop_online": 86,
+        "wins": 52
     },
     {
-        "name": "Uzbekistan",
-        "total": 0.3690958769452456
+        "name": "Nepal",
+        "tfr_score": 171,
+        "imr": 49,
+        "rni_score": 75,
+        "gnipc": 39,
+        "hdi": 45,
+        "life_expectancy": 67,
+        "education": 69,
+        "gii": 37,
+        "pop_online": 52,
+        "wins": 52
     },
     {
-        "name": "Bangladesh",
-        "total": 0.36923335345775343
-    },
-    {
-        "name": "El Salvador",
-        "total": 0.370348685597513
-    },
-    {
-        "name": "Cabo Verde",
-        "total": 0.3710856062252037
+        "name": "Honduras",
+        "tfr_score": 147,
+        "imr": 84,
+        "rni_score": 51,
+        "gnipc": 49,
+        "hdi": 50,
+        "life_expectancy": 70,
+        "education": 18,
+        "gii": 56,
+        "pop_online": 58,
+        "wins": 54
     },
     {
         "name": "Iraq",
-        "total": 0.37418967492045974
+        "tfr_score": 36,
+        "imr": 64,
+        "rni_score": 22,
+        "gnipc": 67,
+        "hdi": 59,
+        "life_expectancy": 75,
+        "education": 58,
+        "gii": 22,
+        "pop_online": 89,
+        "wins": 56
     },
     {
-        "name": "Nicaragua",
-        "total": 0.3754933401781087
+        "name": "Bangladesh",
+        "tfr_score": 161,
+        "imr": 53,
+        "rni_score": 60,
+        "gnipc": 57,
+        "hdi": 58,
+        "life_expectancy": 93,
+        "education": 50,
+        "gii": 36,
+        "pop_online": 49,
+        "wins": 57
     },
     {
-        "name": "Belize",
-        "total": 0.37593175601223616
+        "name": "India",
+        "tfr_score": 163,
+        "imr": 54,
+        "rni_score": 85,
+        "gnipc": 59,
+        "hdi": 53,
+        "life_expectancy": 53,
+        "education": 67,
+        "gii": 51,
+        "pop_online": 45,
+        "wins": 57
     },
     {
-        "name": "Nauru",
-        "total": 0.3764808756317659
+        "name": "Samoa",
+        "tfr_score": 14,
+        "imr": 79,
+        "rni_score": 32,
+        "gnipc": 48,
+        "hdi": 69,
+        "life_expectancy": 84,
+        "education": 63,
+        "gii": 57,
+        "pop_online": 81,
+        "wins": 60
     },
     {
-        "name": "Jamaica",
-        "total": 0.3768602745974817
+        "name": "Tuvalu",
+        "tfr_score": 49,
+        "imr": 72,
+        "rni_score": 86,
+        "gnipc": 42,
+        "hdi": 55,
+        "life_expectancy": 38,
+        "education": 54,
+        "gii": 163,
+        "pop_online": 95,
+        "wins": 61
     },
     {
-        "name": "Venezuela (Bolivarian Republic of)",
-        "total": 0.3783710478330722
-    },
-    {
-        "name": "South Africa",
-        "total": 0.3827054784363636
-    },
-    {
-        "name": "Philippines",
-        "total": 0.3828954924438558
-    },
-    {
-        "name": "Palestine, State of",
-        "total": 0.38365252485967605
-    },
-    {
-        "name": "Bolivia (Plurinational State of)",
-        "total": 0.38391037812610235
-    },
-    {
-        "name": "Ukraine",
-        "total": 0.386531699164838
-    },
-    {
-        "name": "Jordan",
-        "total": 0.3877281917116615
-    },
-    {
-        "name": "Arab States",
-        "total": 0.3880582188553814
+        "name": "Kyrgyzstan",
+        "tfr_score": 95,
+        "imr": 87,
+        "rni_score": 58,
+        "gnipc": 44,
+        "hdi": 68,
+        "life_expectancy": 66,
+        "education": 77,
+        "gii": 75,
+        "pop_online": 7,
+        "wins": 62
     },
     {
         "name": "Egypt",
-        "total": 0.3895341555663532
-    },
-    {
-        "name": "Fiji",
-        "total": 0.3911158572474399
-    },
-    {
-        "name": "Bhutan",
-        "total": 0.3914309622632706
-    },
-    {
-        "name": "Lebanon",
-        "total": 0.3918280523597701
-    },
-    {
-        "name": "Turkmenistan",
-        "total": 0.39278140178699056
-    },
-    {
-        "name": "Indonesia",
-        "total": 0.3950877703642633
-    },
-    {
-        "name": "Marshall Islands",
-        "total": 0.39625716665286315
-    },
-    {
-        "name": "Saint Lucia",
-        "total": 0.398564430311651
-    },
-    {
-        "name": "Viet Nam",
-        "total": 0.3986858976775862
-    },
-    {
-        "name": "Paraguay",
-        "total": 0.4044592727539707
-    },
-    {
-        "name": "Dominica",
-        "total": 0.4052578065307732
-    },
-    {
-        "name": "Azerbaijan",
-        "total": 0.40567157727189135
-    },
-    {
-        "name": "Morocco",
-        "total": 0.4078004167469592
-    },
-    {
-        "name": "Mongolia",
-        "total": 0.40828421646201674
-    },
-    {
-        "name": "Moldova (Republic of)",
-        "total": 0.40978498018949844
+        "tfr_score": 126,
+        "imr": 61,
+        "rni_score": 65,
+        "gnipc": 86,
+        "hdi": 77,
+        "life_expectancy": 63,
+        "education": 73,
+        "gii": 65,
+        "pop_online": 3,
+        "wins": 63
     },
     {
         "name": "Tonga",
-        "total": 0.4110845701065308
+        "tfr_score": 50,
+        "imr": 101,
+        "rni_score": 52,
+        "gnipc": 56,
+        "hdi": 84,
+        "life_expectancy": 73,
+        "education": 136,
+        "gii": 44,
+        "pop_online": 57,
+        "wins": 63
     },
     {
-        "name": "World",
-        "total": 0.4120340053514629
+        "name": "Nauru",
+        "tfr_score": 47,
+        "imr": 59,
+        "rni_score": 48,
+        "gnipc": 95,
+        "hdi": 65,
+        "life_expectancy": 36,
+        "education": 65,
+        "gii": 151,
+        "pop_online": 97,
+        "wins": 65
     },
     {
-        "name": "Tunisia",
-        "total": 0.4138526981206897
+        "name": "Nicaragua",
+        "tfr_score": 156,
+        "imr": 81,
+        "rni_score": 69,
+        "gnipc": 55,
+        "hdi": 57,
+        "life_expectancy": 105,
+        "education": 66,
+        "gii": 61,
+        "pop_online": 60,
+        "wins": 66
     },
     {
-        "name": "North Macedonia",
-        "total": 0.4147565080289446
+        "name": "Turkmenistan",
+        "tfr_score": 100,
+        "imr": 33,
+        "rni_score": 56,
+        "gnipc": 88,
+        "hdi": 88,
+        "life_expectancy": 60,
+        "education": 83,
+        "gii": 154,
+        "pop_online": 21,
+        "wins": 67
     },
     {
-        "name": "Sri Lanka",
-        "total": 0.4148293777200104
+        "name": "El Salvador",
+        "tfr_score": 141,
+        "imr": 97,
+        "rni_score": 94,
+        "gnipc": 64,
+        "hdi": 60,
+        "life_expectancy": 76,
+        "education": 49,
+        "gii": 69,
+        "pop_online": 62,
+        "wins": 68
     },
     {
-        "name": "Cuba",
-        "total": 0.4155186947912121
+        "name": "Belize",
+        "tfr_score": 170,
+        "imr": 95,
+        "rni_score": 73,
+        "gnipc": 69,
+        "hdi": 67,
+        "life_expectancy": 72,
+        "education": 61,
+        "gii": 46,
+        "pop_online": 68,
+        "wins": 69
     },
     {
-        "name": "Peru",
-        "total": 0.4188348973407001
+        "name": "Suriname",
+        "tfr_score": 158,
+        "imr": 82,
+        "rni_score": 78,
+        "gnipc": 84,
+        "hdi": 63,
+        "life_expectancy": 64,
+        "education": 31,
+        "gii": 58,
+        "pop_online": 83,
+        "wins": 70
     },
     {
-        "name": "Bosnia and Herzegovina",
-        "total": 0.42247291472048065
+        "name": "Uzbekistan",
+        "tfr_score": 46,
+        "imr": 107,
+        "rni_score": 37,
+        "gnipc": 63,
+        "hdi": 76,
+        "life_expectancy": 79,
+        "education": 51,
+        "gii": 94,
+        "pop_online": 125,
+        "wins": 71
     },
     {
-        "name": "Iran (Islamic Republic of)",
-        "total": 0.42389817965731447
+        "name": "Marshall Islands",
+        "tfr_score": 75,
+        "imr": 58,
+        "rni_score": 67,
+        "gnipc": 58,
+        "hdi": 80,
+        "life_expectancy": 39,
+        "education": 140,
+        "gii": 166,
+        "pop_online": 74,
+        "wins": 71
     },
     {
-        "name": "Colombia",
-        "total": 0.4257726088276907
-    },
-    {
-        "name": "Armenia",
-        "total": 0.425833527538558
-    },
-    {
-        "name": "Ecuador",
-        "total": 0.4283960807166667
-    },
-    {
-        "name": "Dominican Republic",
-        "total": 0.42936644590350054
-    },
-    {
-        "name": "Saint Vincent and the Grenadines",
-        "total": 0.4297193194624869
-    },
-    {
-        "name": "Latin America and the Caribbean",
-        "total": 0.4301878407246603
-    },
-    {
-        "name": "Belarus",
-        "total": 0.4307747384139498
-    },
-    {
-        "name": "Libya",
-        "total": 0.4319998933701149
-    },
-    {
-        "name": "High human development",
-        "total": 0.43240868646713687
-    },
-    {
-        "name": "Maldives",
-        "total": 0.4335044238948276
+        "name": "Cabo Verde",
+        "tfr_score": 99,
+        "imr": 98,
+        "rni_score": 101,
+        "gnipc": 60,
+        "hdi": 56,
+        "life_expectancy": 107,
+        "education": 42,
+        "gii": 81,
+        "pop_online": 70,
+        "wins": 72
     },
     {
         "name": "Algeria",
-        "total": 0.43422837669399167
+        "tfr_score": 63,
+        "imr": 65,
+        "rni_score": 54,
+        "gnipc": 77,
+        "hdi": 89,
+        "life_expectancy": 121,
+        "education": 123,
+        "gii": 45,
+        "pop_online": 69,
+        "wins": 72
     },
     {
-        "name": "Albania",
-        "total": 0.43639257495104494
+        "name": "South Africa",
+        "tfr_score": 149,
+        "imr": 52,
+        "rni_score": 79,
+        "gnipc": 90,
+        "hdi": 74,
+        "life_expectancy": 19,
+        "education": 100,
+        "gii": 59,
+        "pop_online": 79,
+        "wins": 73
     },
     {
-        "name": "Brazil",
-        "total": 0.43674284093155696
+        "name": "Philippines",
+        "tfr_score": 153,
+        "imr": 57,
+        "rni_score": 103,
+        "gnipc": 66,
+        "hdi": 72,
+        "life_expectancy": 82,
+        "education": 71,
+        "gii": 66,
+        "pop_online": 80,
+        "wins": 74
     },
     {
-        "name": "East Asia and the Pacific",
-        "total": 0.43737866581745044
+        "name": "Indonesia",
+        "tfr_score": 154,
+        "imr": 69,
+        "rni_score": 81,
+        "gnipc": 83,
+        "hdi": 73,
+        "life_expectancy": 55,
+        "education": 95,
+        "gii": 50,
+        "pop_online": 65,
+        "wins": 75
     },
     {
-        "name": "Serbia",
-        "total": 0.4428405713627482
+        "name": "Fiji",
+        "tfr_score": 69,
+        "imr": 70,
+        "rni_score": 62,
+        "gnipc": 79,
+        "hdi": 78,
+        "life_expectancy": 56,
+        "education": 91,
+        "gii": 78,
+        "pop_online": 111,
+        "wins": 75
     },
     {
-        "name": "Kazakhstan",
-        "total": 0.4433370671842738
+        "name": "Jamaica",
+        "tfr_score": 88,
+        "imr": 71,
+        "rni_score": 125,
+        "gnipc": 71,
+        "hdi": 70,
+        "life_expectancy": 69,
+        "education": 64,
+        "gii": 74,
+        "pop_online": 109,
+        "wins": 75
     },
     {
-        "name": "Mexico",
-        "total": 0.4436607899510449
+        "name": "Bhutan",
+        "tfr_score": 106,
+        "imr": 63,
+        "rni_score": 106,
+        "gnipc": 74,
+        "hdi": 62,
+        "life_expectancy": 83,
+        "education": 81,
+        "gii": 76,
+        "pop_online": 119,
+        "wins": 77
     },
     {
-        "name": "Palau",
-        "total": 0.44798161794864155
+        "name": "Jordan",
+        "tfr_score": 133,
+        "imr": 86,
+        "rni_score": 57,
+        "gnipc": 70,
+        "hdi": 83,
+        "life_expectancy": 100,
+        "education": 68,
+        "gii": 48,
+        "pop_online": 133,
+        "wins": 78
     },
     {
-        "name": "Georgia",
-        "total": 0.44896079347706375
-    },
-    {
-        "name": "Bulgaria",
-        "total": 0.4495341543926332
-    },
-    {
-        "name": "Trinidad and Tobago",
-        "total": 0.4498277946649948
-    },
-    {
-        "name": "Grenada",
-        "total": 0.45022550744535
-    },
-    {
-        "name": "Europe and Central Asia",
-        "total": 0.45346705713824453
-    },
-    {
-        "name": "Mauritius",
-        "total": 0.45610110269712645
+        "name": "Paraguay",
+        "tfr_score": 146,
+        "imr": 83,
+        "rni_score": 64,
+        "gnipc": 89,
+        "hdi": 79,
+        "life_expectancy": 65,
+        "education": 94,
+        "gii": 53,
+        "pop_online": 88,
+        "wins": 80
     },
     {
         "name": "Guyana",
-        "total": 0.4568778564259666
+        "tfr_score": 148,
+        "imr": 60,
+        "rni_score": 71,
+        "gnipc": 135,
+        "hdi": 87,
+        "life_expectancy": 47,
+        "education": 79,
+        "gii": 54,
+        "pop_online": 112,
+        "wins": 81
     },
     {
-        "name": "Malaysia",
-        "total": 0.4570825285011495
+        "name": "Mongolia",
+        "tfr_score": 113,
+        "imr": 93,
+        "rni_score": 68,
+        "gnipc": 73,
+        "hdi": 86,
+        "life_expectancy": 85,
+        "education": 108,
+        "gii": 84,
+        "pop_online": 102,
+        "wins": 85
+    },
+    {
+        "name": "Lebanon",
+        "tfr_score": 164,
+        "imr": 74,
+        "rni_score": 88,
+        "gnipc": 85,
+        "hdi": 75,
+        "life_expectancy": 104,
+        "education": 52,
+        "gii": 71,
+        "pop_online": 131,
+        "wins": 86
+    },
+    {
+        "name": "Dominica",
+        "tfr_score": 108,
+        "imr": 47,
+        "rni_score": 147,
+        "gnipc": 87,
+        "hdi": 85,
+        "life_expectancy": 86,
+        "education": 88,
+        "gii": 164,
+        "pop_online": 100,
+        "wins": 87
+    },
+    {
+        "name": "Ukraine",
+        "tfr_score": 51,
+        "imr": 120,
+        "rni_score": 98,
+        "gnipc": 80,
+        "hdi": 82,
+        "life_expectancy": 57,
+        "education": 86,
+        "gii": 107,
+        "pop_online": 90,
+        "wins": 87
+    },
+    {
+        "name": "Colombia",
+        "tfr_score": 84,
+        "imr": 96,
+        "rni_score": 109,
+        "gnipc": 96,
+        "hdi": 91,
+        "life_expectancy": 92,
+        "education": 102,
+        "gii": 62,
+        "pop_online": 72,
+        "wins": 89
+    },
+    {
+        "name": "Morocco",
+        "tfr_score": 162,
+        "imr": 85,
+        "rni_score": 84,
+        "gnipc": 62,
+        "hdi": 66,
+        "life_expectancy": 110,
+        "education": 109,
+        "gii": 49,
+        "pop_online": 130,
+        "wins": 90
+    },
+    {
+        "name": "Libya",
+        "tfr_score": 150,
+        "imr": 73,
+        "rni_score": 87,
+        "gnipc": 111,
+        "hdi": 90,
+        "life_expectancy": 81,
+        "education": 96,
+        "gii": 90,
+        "pop_online": 123,
+        "wins": 91
+    },
+    {
+        "name": "Azerbaijan",
+        "tfr_score": 131,
+        "imr": 66,
+        "rni_score": 118,
+        "gnipc": 97,
+        "hdi": 93,
+        "life_expectancy": 91,
+        "education": 70,
+        "gii": 79,
+        "pop_online": 121,
+        "wins": 92
+    },
+    {
+        "name": "Tunisia",
+        "tfr_score": 122,
+        "imr": 105,
+        "rni_score": 95,
+        "gnipc": 72,
+        "hdi": 81,
+        "life_expectancy": 101,
+        "education": 111,
+        "gii": 96,
+        "pop_online": 77,
+        "wins": 94
+    },
+    {
+        "name": "Brazil",
+        "tfr_score": 129,
+        "imr": 91,
+        "rni_score": 116,
+        "gnipc": 92,
+        "hdi": 92,
+        "life_expectancy": 90,
+        "education": 126,
+        "gii": 64,
+        "pop_online": 103,
+        "wins": 94
+    },
+    {
+        "name": "Ecuador",
+        "tfr_score": 165,
+        "imr": 94,
+        "rni_score": 80,
+        "gnipc": 76,
+        "hdi": 98,
+        "life_expectancy": 124,
+        "education": 115,
+        "gii": 68,
+        "pop_online": 71,
+        "wins": 94
+    },
+    {
+        "name": "Dominican Republic",
+        "tfr_score": 169,
+        "imr": 55,
+        "rni_score": 89,
+        "gnipc": 105,
+        "hdi": 99,
+        "life_expectancy": 99,
+        "education": 89,
+        "gii": 52,
+        "pop_online": 105,
+        "wins": 94
+    },
+    {
+        "name": "Peru",
+        "tfr_score": 166,
+        "imr": 92,
+        "rni_score": 90,
+        "gnipc": 82,
+        "hdi": 95,
+        "life_expectancy": 89,
+        "education": 113,
+        "gii": 72,
+        "pop_online": 78,
+        "wins": 94
+    },
+    {
+        "name": "Mexico",
+        "tfr_score": 124,
+        "imr": 75,
+        "rni_score": 82,
+        "gnipc": 108,
+        "hdi": 101,
+        "life_expectancy": 108,
+        "education": 106,
+        "gii": 73,
+        "pop_online": 94,
+        "wins": 96
     },
     {
         "name": "Bahamas",
-        "total": 0.45725135481280044
+        "tfr_score": 86,
+        "imr": 99,
+        "rni_score": 113,
+        "gnipc": 128,
+        "hdi": 121,
+        "life_expectancy": 103,
+        "education": 48,
+        "gii": 77,
+        "pop_online": 1,
+        "wins": 97
     },
     {
-        "name": "Seychelles",
-        "total": 0.45862409279273775
+        "name": "Cuba",
+        "tfr_score": 74,
+        "imr": 132,
+        "rni_score": 140,
+        "gnipc": 61,
+        "hdi": 96,
+        "life_expectancy": 128,
+        "education": 103,
+        "gii": 83,
+        "pop_online": 73,
+        "wins": 97
     },
     {
-        "name": "China",
-        "total": 0.4588387623542842
-    },
-    {
-        "name": "Barbados",
-        "total": 0.46050935458615466
-    },
-    {
-        "name": "Monaco",
-        "total": 0.4621019054075235
-    },
-    {
-        "name": "Thailand",
-        "total": 0.4623142316519854
-    },
-    {
-        "name": "Antigua and Barbuda",
-        "total": 0.4665793246299896
-    },
-    {
-        "name": "Montenegro",
-        "total": 0.4672808999611807
-    },
-    {
-        "name": "Russian Federation",
-        "total": 0.4694300151994775
-    },
-    {
-        "name": "Oman",
-        "total": 0.4696668832471787
-    },
-    {
-        "name": "Costa Rica",
-        "total": 0.4725421883974921
+        "name": "Sri Lanka",
+        "tfr_score": 157,
+        "imr": 113,
+        "rni_score": 102,
+        "gnipc": 81,
+        "hdi": 100,
+        "life_expectancy": 116,
+        "education": 90,
+        "gii": 67,
+        "pop_online": 53,
+        "wins": 98
     },
     {
         "name": "Panama",
-        "total": 0.47768588755094044
+        "tfr_score": 152,
+        "imr": 89,
+        "rni_score": 92,
+        "gnipc": 125,
+        "hdi": 120,
+        "life_expectancy": 117,
+        "education": 82,
+        "gii": 63,
+        "pop_online": 75,
+        "wins": 99
+    },
+    {
+        "name": "Maldives",
+        "tfr_score": 139,
+        "imr": 100,
+        "rni_score": 97,
+        "gnipc": 107,
+        "hdi": 94,
+        "life_expectancy": 140,
+        "education": 57,
+        "gii": 80,
+        "pop_online": 101,
+        "wins": 100
+    },
+    {
+        "name": "Mauritius",
+        "tfr_score": 83,
+        "imr": 88,
+        "rni_score": 163,
+        "gnipc": 118,
+        "hdi": 106,
+        "life_expectancy": 96,
+        "education": 110,
+        "gii": 70,
+        "pop_online": 82,
+        "wins": 102
+    },
+    {
+        "name": "Armenia",
+        "tfr_score": 136,
+        "imr": 116,
+        "rni_score": 124,
+        "gnipc": 99,
+        "hdi": 102,
+        "life_expectancy": 88,
+        "education": 101,
+        "gii": 105,
+        "pop_online": 85,
+        "wins": 104
+    },
+    {
+        "name": "North Macedonia",
+        "tfr_score": 103,
+        "imr": 166,
+        "rni_score": 146,
+        "gnipc": 101,
+        "hdi": 97,
+        "life_expectancy": 94,
+        "education": 78,
+        "gii": 113,
+        "pop_online": 104,
+        "wins": 106
+    },
+    {
+        "name": "Kazakhstan",
+        "tfr_score": 70,
+        "imr": 110,
+        "rni_score": 70,
+        "gnipc": 117,
+        "hdi": 110,
+        "life_expectancy": 61,
+        "education": 114,
+        "gii": 111,
+        "pop_online": 142,
+        "wins": 107
+    },
+    {
+        "name": "Albania",
+        "tfr_score": 67,
+        "imr": 109,
+        "rni_score": 143,
+        "gnipc": 98,
+        "hdi": 104,
+        "life_expectancy": 118,
+        "education": 104,
+        "gii": 117,
+        "pop_online": 98,
+        "wins": 108
+    },
+    {
+        "name": "Grenada",
+        "tfr_score": 102,
+        "imr": 90,
+        "rni_score": 136,
+        "gnipc": 91,
+        "hdi": 105,
+        "life_expectancy": 112,
+        "education": 144,
+        "gii": 157,
+        "pop_online": 91,
+        "wins": 108
+    },
+    {
+        "name": "Palau",
+        "tfr_score": 151,
+        "imr": 67,
+        "rni_score": 152,
+        "gnipc": 109,
+        "hdi": 107,
+        "life_expectancy": 41,
+        "education": 152,
+        "gii": 150,
+        "pop_online": 23,
+        "wins": 109
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "tfr_score": 66,
+        "imr": 80,
+        "rni_score": 166,
+        "gnipc": 115,
+        "hdi": 117,
+        "life_expectancy": 106,
+        "education": 98,
+        "gii": 91,
+        "pop_online": 92,
+        "wins": 109
+    },
+    {
+        "name": "Oman",
+        "tfr_score": 135,
+        "imr": 104,
+        "rni_score": 59,
+        "gnipc": 130,
+        "hdi": 119,
+        "life_expectancy": 95,
+        "education": 76,
+        "gii": 89,
+        "pop_online": 151,
+        "wins": 110
+    },
+    {
+        "name": "Bulgaria",
+        "tfr_score": 145,
+        "imr": 128,
+        "rni_score": 104,
+        "gnipc": 120,
+        "hdi": 108,
+        "life_expectancy": 77,
+        "education": 92,
+        "gii": 102,
+        "pop_online": 93,
+        "wins": 111
+    },
+    {
+        "name": "Georgia",
+        "tfr_score": 137,
+        "imr": 108,
+        "rni_score": 155,
+        "gnipc": 100,
+        "hdi": 118,
+        "life_expectancy": 78,
+        "education": 147,
+        "gii": 87,
+        "pop_online": 96,
+        "wins": 112
+    },
+    {
+        "name": "China",
+        "tfr_score": 48,
+        "imr": 126,
+        "rni_score": 158,
+        "gnipc": 103,
+        "hdi": 103,
+        "life_expectancy": 130,
+        "education": 120,
+        "gii": 108,
+        "pop_online": 87,
+        "wins": 112
+    },
+    {
+        "name": "Thailand",
+        "tfr_score": 52,
+        "imr": 114,
+        "rni_score": 150,
+        "gnipc": 102,
+        "hdi": 112,
+        "life_expectancy": 137,
+        "education": 127,
+        "gii": 82,
+        "pop_online": 128,
+        "wins": 112
+    },
+    {
+        "name": "Barbados",
+        "tfr_score": 140,
+        "imr": 106,
+        "rni_score": 134,
+        "gnipc": 93,
+        "hdi": 116,
+        "life_expectancy": 123,
+        "education": 142,
+        "gii": 86,
+        "pop_online": 84,
+        "wins": 112
+    },
+    {
+        "name": "Seychelles",
+        "tfr_score": 160,
+        "imr": 76,
+        "rni_score": 119,
+        "gnipc": 122,
+        "hdi": 111,
+        "life_expectancy": 80,
+        "education": 93,
+        "gii": 162,
+        "pop_online": 117,
+        "wins": 113
+    },
+    {
+        "name": "Costa Rica",
+        "tfr_score": 62,
+        "imr": 103,
+        "rni_score": 126,
+        "gnipc": 112,
+        "hdi": 114,
+        "life_expectancy": 122,
+        "education": 134,
+        "gii": 97,
+        "pop_online": 110,
+        "wins": 115
+    },
+    {
+        "name": "Serbia",
+        "tfr_score": 120,
+        "imr": 130,
+        "rni_score": 110,
+        "gnipc": 110,
+        "hdi": 113,
+        "life_expectancy": 98,
+        "education": 105,
+        "gii": 115,
+        "pop_online": 113,
+        "wins": 116
+    },
+    {
+        "name": "Malaysia",
+        "tfr_score": 128,
+        "imr": 119,
+        "rni_score": 105,
+        "gnipc": 121,
+        "hdi": 115,
+        "life_expectancy": 115,
+        "education": 74,
+        "gii": 103,
+        "pop_online": 161,
+        "wins": 117
+    },
+    {
+        "name": "Belarus",
+        "tfr_score": 117,
+        "imr": 163,
+        "rni_score": 122,
+        "gnipc": 104,
+        "hdi": 109,
+        "life_expectancy": 87,
+        "education": 97,
+        "gii": 122,
+        "pop_online": 137,
+        "wins": 118
     },
     {
         "name": "Romania",
-        "total": 0.48330946183171375
-    },
-    {
-        "name": "Slovakia",
-        "total": 0.49099334490350055
-    },
-    {
-        "name": "Uruguay",
-        "total": 0.49534122143296766
-    },
-    {
-        "name": "Chile",
-        "total": 0.500484175299582
-    },
-    {
-        "name": "Hungary",
-        "total": 0.500669191115047
+        "tfr_score": 80,
+        "imr": 129,
+        "rni_score": 132,
+        "gnipc": 124,
+        "hdi": 123,
+        "life_expectancy": 97,
+        "education": 107,
+        "gii": 99,
+        "pop_online": 126,
+        "wins": 120
     },
     {
         "name": "Argentina",
-        "total": 0.5077441929573145
-    },
-    {
-        "name": "Saint Kitts and Nevis",
-        "total": 0.5109505371022466
-    },
-    {
-        "name": "Latvia",
-        "total": 0.5132613590479101
-    },
-    {
-        "name": "Croatia",
-        "total": 0.5190648388254441
-    },
-    {
-        "name": "Poland",
-        "total": 0.5194968015253396
-    },
-    {
-        "name": "Lithuania",
-        "total": 0.5269514547384535
-    },
-    {
-        "name": "Estonia",
-        "total": 0.5324659011320272
-    },
-    {
-        "name": "Czechia",
-        "total": 0.5434220612260189
-    },
-    {
-        "name": "Portugal",
-        "total": 0.5451908776274295
-    },
-    {
-        "name": "Israel",
-        "total": 0.5534470279401776
-    },
-    {
-        "name": "Cyprus",
-        "total": 0.5536834313695924
+        "tfr_score": 112,
+        "imr": 111,
+        "rni_score": 141,
+        "gnipc": 113,
+        "hdi": 127,
+        "life_expectancy": 114,
+        "education": 163,
+        "gii": 85,
+        "pop_online": 127,
+        "wins": 122
     },
     {
         "name": "T\u00fcrkiye",
-        "total": 0.558640602788976
+        "tfr_score": 114,
+        "imr": 102,
+        "rni_score": 121,
+        "gnipc": 129,
+        "hdi": 130,
+        "life_expectancy": 129,
+        "education": 169,
+        "gii": 92,
+        "pop_online": 8,
+        "wins": 123
     },
     {
-        "name": "Greece",
-        "total": 0.5638274880903866
+        "name": "Hungary",
+        "tfr_score": 107,
+        "imr": 149,
+        "rni_score": 120,
+        "gnipc": 131,
+        "hdi": 128,
+        "life_expectancy": 109,
+        "education": 117,
+        "gii": 98,
+        "pop_online": 136,
+        "wins": 124
     },
     {
-        "name": "Japan",
-        "total": 0.5648551772581505
+        "name": "Slovakia",
+        "tfr_score": 111,
+        "imr": 122,
+        "rni_score": 160,
+        "gnipc": 127,
+        "hdi": 129,
+        "life_expectancy": 111,
+        "education": 112,
+        "gii": 109,
+        "pop_online": 5,
+        "wins": 125
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "tfr_score": 134,
+        "imr": 112,
+        "rni_score": 111,
+        "gnipc": 106,
+        "hdi": 122,
+        "life_expectancy": 134,
+        "education": 124,
+        "gii": 171,
+        "pop_online": 135,
+        "wins": 127
+    },
+    {
+        "name": "Montenegro",
+        "tfr_score": 143,
+        "imr": 142,
+        "rni_score": 156,
+        "gnipc": 116,
+        "hdi": 125,
+        "life_expectancy": 119,
+        "education": 118,
+        "gii": 118,
+        "pop_online": 122,
+        "wins": 128
+    },
+    {
+        "name": "Uruguay",
+        "tfr_score": 144,
+        "imr": 121,
+        "rni_score": 168,
+        "gnipc": 114,
+        "hdi": 124,
+        "life_expectancy": 126,
+        "education": 154,
+        "gii": 95,
+        "pop_online": 129,
+        "wins": 129
+    },
+    {
+        "name": "Lithuania",
+        "tfr_score": 76,
+        "imr": 152,
+        "rni_score": 99,
+        "gnipc": 137,
+        "hdi": 138,
+        "life_expectancy": 102,
+        "education": 141,
+        "gii": 121,
+        "pop_online": 124,
+        "wins": 129
     },
     {
         "name": "Saudi Arabia",
-        "total": 0.5650093331832811
+        "tfr_score": 167,
+        "imr": 125,
+        "rni_score": 76,
+        "gnipc": 153,
+        "hdi": 134,
+        "life_expectancy": 125,
+        "education": 119,
+        "gii": 100,
+        "pop_online": 168,
+        "wins": 130
     },
     {
-        "name": "Andorra",
-        "total": 0.5661403473654127
+        "name": "Chile",
+        "tfr_score": 64,
+        "imr": 117,
+        "rni_score": 142,
+        "gnipc": 119,
+        "hdi": 131,
+        "life_expectancy": 136,
+        "education": 148,
+        "gii": 106,
+        "pop_online": 146,
+        "wins": 130
     },
     {
-        "name": "Very high human development",
-        "total": 0.5667316922583594
+        "name": "Poland",
+        "tfr_score": 58,
+        "imr": 135,
+        "rni_score": 128,
+        "gnipc": 133,
+        "hdi": 139,
+        "life_expectancy": 120,
+        "education": 130,
+        "gii": 120,
+        "pop_online": 116,
+        "wins": 132
     },
     {
-        "name": "Brunei Darussalam",
-        "total": 0.5673785955397075
-    },
-    {
-        "name": "Malta",
-        "total": 0.5689846659791535
-    },
-    {
-        "name": "Slovenia",
-        "total": 0.5724394078963949
-    },
-    {
-        "name": "San Marino",
-        "total": 0.5729812030272727
-    },
-    {
-        "name": "Bahrain",
-        "total": 0.5753801873697492
-    },
-    {
-        "name": "Spain",
-        "total": 0.5769799012603971
-    },
-    {
-        "name": "Italy",
-        "total": 0.5784530984407001
-    },
-    {
-        "name": "France",
-        "total": 0.5787697578201149
-    },
-    {
-        "name": "Canada",
-        "total": 0.5809184303146291
-    },
-    {
-        "name": "Korea (Republic of)",
-        "total": 0.5824794407711599
-    },
-    {
-        "name": "United Kingdom",
-        "total": 0.5918831357822362
+        "name": "Croatia",
+        "tfr_score": 105,
+        "imr": 134,
+        "rni_score": 117,
+        "gnipc": 132,
+        "hdi": 136,
+        "life_expectancy": 133,
+        "education": 125,
+        "gii": 126,
+        "pop_online": 99,
+        "wins": 133
     },
     {
         "name": "Kuwait",
-        "total": 0.5980493771669801
+        "tfr_score": 116,
+        "imr": 115,
+        "rni_score": 100,
+        "gnipc": 159,
+        "hdi": 126,
+        "life_expectancy": 138,
+        "education": 128,
+        "gii": 104,
+        "pop_online": 166,
+        "wins": 133
     },
     {
-        "name": "New Zealand",
-        "total": 0.6077376116966562
-    },
-    {
-        "name": "Austria",
-        "total": 0.6112421693979624
-    },
-    {
-        "name": "Germany",
-        "total": 0.6142778521518286
-    },
-    {
-        "name": "Finland",
-        "total": 0.6202211710234588
-    },
-    {
-        "name": "United States",
-        "total": 0.6297794747935737
-    },
-    {
-        "name": "Belgium",
-        "total": 0.6305800968901254
+        "name": "Latvia",
+        "tfr_score": 93,
+        "imr": 156,
+        "rni_score": 107,
+        "gnipc": 126,
+        "hdi": 137,
+        "life_expectancy": 113,
+        "education": 143,
+        "gii": 112,
+        "pop_online": 140,
+        "wins": 134
     },
     {
         "name": "Qatar",
-        "total": 0.6350952815060084
+        "tfr_score": 91,
+        "imr": 137,
+        "rni_score": 96,
+        "gnipc": 170,
+        "hdi": 135,
+        "life_expectancy": 142,
+        "education": 85,
+        "gii": 101,
+        "pop_online": 171,
+        "wins": 136
     },
     {
-        "name": "Iceland",
-        "total": 0.6373906615477012
+        "name": "Cyprus",
+        "tfr_score": 92,
+        "imr": 151,
+        "rni_score": 127,
+        "gnipc": 140,
+        "hdi": 146,
+        "life_expectancy": 144,
+        "education": 135,
+        "gii": 93,
+        "pop_online": 134,
+        "wins": 138
     },
     {
-        "name": "Netherlands",
-        "total": 0.6390317799422675
+        "name": "Greece",
+        "tfr_score": 79,
+        "imr": 150,
+        "rni_score": 112,
+        "gnipc": 123,
+        "hdi": 142,
+        "life_expectancy": 139,
+        "education": 170,
+        "gii": 114,
+        "pop_online": 107,
+        "wins": 138
     },
     {
-        "name": "Australia",
-        "total": 0.6439056829420062
+        "name": "Israel",
+        "tfr_score": 97,
+        "imr": 157,
+        "rni_score": 74,
+        "gnipc": 142,
+        "hdi": 150,
+        "life_expectancy": 153,
+        "education": 116,
+        "gii": 125,
+        "pop_online": 138,
+        "wins": 140
     },
     {
-        "name": "Sweden",
-        "total": 0.6462699867592999
+        "name": "Bahrain",
+        "tfr_score": 159,
+        "imr": 127,
+        "rni_score": 83,
+        "gnipc": 150,
+        "hdi": 141,
+        "life_expectancy": 135,
+        "education": 137,
+        "gii": 110,
+        "pop_online": 170,
+        "wins": 141
+    },
+    {
+        "name": "Estonia",
+        "tfr_score": 78,
+        "imr": 169,
+        "rni_score": 131,
+        "gnipc": 136,
+        "hdi": 144,
+        "life_expectancy": 131,
+        "education": 131,
+        "gii": 124,
+        "pop_online": 143,
+        "wins": 141
+    },
+    {
+        "name": "Portugal",
+        "tfr_score": 87,
+        "imr": 159,
+        "rni_score": 135,
+        "gnipc": 134,
+        "hdi": 133,
+        "life_expectancy": 147,
+        "education": 149,
+        "gii": 130,
+        "pop_online": 114,
+        "wins": 142
+    },
+    {
+        "name": "Czechia",
+        "tfr_score": 96,
+        "imr": 161,
+        "rni_score": 151,
+        "gnipc": 138,
+        "hdi": 143,
+        "life_expectancy": 127,
+        "education": 138,
+        "gii": 119,
+        "pop_online": 115,
+        "wins": 143
+    },
+    {
+        "name": "Andorra",
+        "tfr_score": 59,
+        "imr": 124,
+        "rni_score": 149,
+        "gnipc": 155,
+        "hdi": 140,
+        "life_expectancy": 162,
+        "education": 72,
+        "gii": 169,
+        "pop_online": 148,
+        "wins": 144
+    },
+    {
+        "name": "Malta",
+        "tfr_score": 60,
+        "imr": 118,
+        "rni_score": 161,
+        "gnipc": 146,
+        "hdi": 149,
+        "life_expectancy": 164,
+        "education": 129,
+        "gii": 116,
+        "pop_online": 139,
+        "wins": 144
+    },
+    {
+        "name": "Japan",
+        "tfr_score": 65,
+        "imr": 168,
+        "rni_score": 108,
+        "gnipc": 143,
+        "hdi": 151,
+        "life_expectancy": 170,
+        "education": 121,
+        "gii": 129,
+        "pop_online": 106,
+        "wins": 144
+    },
+    {
+        "name": "San Marino",
+        "tfr_score": 55,
+        "imr": 171,
+        "rni_score": 137,
+        "gnipc": 162,
+        "hdi": 132,
+        "life_expectancy": 160,
+        "education": 59,
+        "gii": 158,
+        "pop_online": 108,
+        "wins": 146
+    },
+    {
+        "name": "France",
+        "tfr_score": 119,
+        "imr": 138,
+        "rni_score": 167,
+        "gnipc": 148,
+        "hdi": 147,
+        "life_expectancy": 158,
+        "education": 133,
+        "gii": 127,
+        "pop_online": 118,
+        "wins": 150
+    },
+    {
+        "name": "Italy",
+        "tfr_score": 61,
+        "imr": 160,
+        "rni_score": 115,
+        "gnipc": 145,
+        "hdi": 145,
+        "life_expectancy": 166,
+        "education": 146,
+        "gii": 136,
+        "pop_online": 120,
+        "wins": 150
+    },
+    {
+        "name": "Canada",
+        "tfr_score": 81,
+        "imr": 131,
+        "rni_score": 162,
+        "gnipc": 149,
+        "hdi": 155,
+        "life_expectancy": 156,
+        "education": 132,
+        "gii": 133,
+        "pop_online": 145,
+        "wins": 151
+    },
+    {
+        "name": "Spain",
+        "tfr_score": 54,
+        "imr": 155,
+        "rni_score": 144,
+        "gnipc": 139,
+        "hdi": 148,
+        "life_expectancy": 165,
+        "education": 157,
+        "gii": 135,
+        "pop_online": 154,
+        "wins": 152
+    },
+    {
+        "name": "Slovenia",
+        "tfr_score": 125,
+        "imr": 158,
+        "rni_score": 145,
+        "gnipc": 141,
+        "hdi": 153,
+        "life_expectancy": 145,
+        "education": 155,
+        "gii": 137,
+        "pop_online": 132,
+        "wins": 152
+    },
+    {
+        "name": "Germany",
+        "tfr_score": 94,
+        "imr": 145,
+        "rni_score": 130,
+        "gnipc": 157,
+        "hdi": 166,
+        "life_expectancy": 141,
+        "education": 153,
+        "gii": 132,
+        "pop_online": 141,
+        "wins": 152
     },
     {
         "name": "Luxembourg",
-        "total": 0.6486605744292058
+        "tfr_score": 73,
+        "imr": 133,
+        "rni_score": 139,
+        "gnipc": 167,
+        "hdi": 154,
+        "life_expectancy": 152,
+        "education": 99,
+        "gii": 140,
+        "pop_online": 165,
+        "wins": 154
     },
     {
-        "name": "Hong Kong, China (SAR)",
-        "total": 0.6534057533677116
-    },
-    {
-        "name": "Denmark",
-        "total": 0.6553642177558516
-    },
-    {
-        "name": "Switzerland",
-        "total": 0.6620061764927899
-    },
-    {
-        "name": "Liechtenstein",
-        "total": 0.6690189149751828
+        "name": "Austria",
+        "tfr_score": 68,
+        "imr": 154,
+        "rni_score": 154,
+        "gnipc": 158,
+        "hdi": 152,
+        "life_expectancy": 150,
+        "education": 139,
+        "gii": 138,
+        "pop_online": 152,
+        "wins": 155
     },
     {
         "name": "United Arab Emirates",
-        "total": 0.6701341346406477
+        "tfr_score": 89,
+        "imr": 140,
+        "rni_score": 93,
+        "gnipc": 166,
+        "hdi": 156,
+        "life_expectancy": 132,
+        "education": 151,
+        "gii": 143,
+        "pop_online": 169,
+        "wins": 155
     },
     {
-        "name": "Norway",
-        "total": 0.6820682799409614
+        "name": "United Kingdom",
+        "tfr_score": 127,
+        "imr": 141,
+        "rni_score": 159,
+        "gnipc": 147,
+        "hdi": 158,
+        "life_expectancy": 146,
+        "education": 156,
+        "gii": 123,
+        "pop_online": 153,
+        "wins": 156
     },
     {
-        "name": "Singapore",
-        "total": 0.683837982207419
+        "name": "Finland",
+        "tfr_score": 72,
+        "imr": 167,
+        "rni_score": 138,
+        "gnipc": 152,
+        "hdi": 159,
+        "life_expectancy": 149,
+        "education": 167,
+        "gii": 144,
+        "pop_online": 144,
+        "wins": 158
+    },
+    {
+        "name": "New Zealand",
+        "tfr_score": 132,
+        "imr": 144,
+        "rni_score": 129,
+        "gnipc": 144,
+        "hdi": 157,
+        "life_expectancy": 157,
+        "education": 168,
+        "gii": 128,
+        "pop_online": 157,
+        "wins": 158
+    },
+    {
+        "name": "Monaco",
+        "tfr_score": 168,
+        "imr": 136,
+        "rni_score": 77,
+        "gnipc": 0,
+        "hdi": 0,
+        "life_expectancy": 171,
+        "education": 160,
+        "gii": 170,
+        "pop_online": 162,
+        "wins": 159
+    },
+    {
+        "name": "Australia",
+        "tfr_score": 115,
+        "imr": 148,
+        "rni_score": 133,
+        "gnipc": 151,
+        "hdi": 163,
+        "life_expectancy": 163,
+        "education": 171,
+        "gii": 134,
+        "pop_online": 150,
+        "wins": 162
     },
     {
         "name": "Ireland",
-        "total": 0.7050317067633228
+        "tfr_score": 121,
+        "imr": 146,
+        "rni_score": 123,
+        "gnipc": 168,
+        "hdi": 165,
+        "life_expectancy": 154,
+        "education": 166,
+        "gii": 131,
+        "pop_online": 155,
+        "wins": 163
+    },
+    {
+        "name": "Netherlands",
+        "tfr_score": 90,
+        "imr": 147,
+        "rni_score": 170,
+        "gnipc": 161,
+        "hdi": 162,
+        "life_expectancy": 151,
+        "education": 158,
+        "gii": 145,
+        "pop_online": 159,
+        "wins": 163
+    },
+    {
+        "name": "Liechtenstein",
+        "tfr_score": 109,
+        "imr": 123,
+        "rni_score": 148,
+        "gnipc": 171,
+        "hdi": 160,
+        "life_expectancy": 169,
+        "education": 122,
+        "gii": 165,
+        "pop_online": 158,
+        "wins": 163
+    },
+    {
+        "name": "Belgium",
+        "tfr_score": 110,
+        "imr": 153,
+        "rni_score": 171,
+        "gnipc": 154,
+        "hdi": 161,
+        "life_expectancy": 148,
+        "education": 162,
+        "gii": 139,
+        "pop_online": 149,
+        "wins": 163
+    },
+    {
+        "name": "Singapore",
+        "tfr_score": 53,
+        "imr": 162,
+        "rni_score": 164,
+        "gnipc": 169,
+        "hdi": 164,
+        "life_expectancy": 167,
+        "education": 150,
+        "gii": 142,
+        "pop_online": 147,
+        "wins": 163
+    },
+    {
+        "name": "Denmark",
+        "tfr_score": 101,
+        "imr": 143,
+        "rni_score": 169,
+        "gnipc": 163,
+        "hdi": 167,
+        "life_expectancy": 143,
+        "education": 161,
+        "gii": 149,
+        "pop_online": 163,
+        "wins": 166
+    },
+    {
+        "name": "Switzerland",
+        "tfr_score": 71,
+        "imr": 139,
+        "rni_score": 157,
+        "gnipc": 165,
+        "hdi": 171,
+        "life_expectancy": 168,
+        "education": 145,
+        "gii": 147,
+        "pop_online": 160,
+        "wins": 167
+    },
+    {
+        "name": "Iceland",
+        "tfr_score": 123,
+        "imr": 170,
+        "rni_score": 114,
+        "gnipc": 156,
+        "hdi": 169,
+        "life_expectancy": 155,
+        "education": 165,
+        "gii": 141,
+        "pop_online": 167,
+        "wins": 168
+    },
+    {
+        "name": "Sweden",
+        "tfr_score": 118,
+        "imr": 164,
+        "rni_score": 165,
+        "gnipc": 160,
+        "hdi": 168,
+        "life_expectancy": 161,
+        "education": 164,
+        "gii": 146,
+        "pop_online": 156,
+        "wins": 168
+    },
+    {
+        "name": "Norway",
+        "tfr_score": 85,
+        "imr": 165,
+        "rni_score": 153,
+        "gnipc": 164,
+        "hdi": 170,
+        "life_expectancy": 159,
+        "education": 159,
+        "gii": 148,
+        "pop_online": 164,
+        "wins": 171
     }
 ]

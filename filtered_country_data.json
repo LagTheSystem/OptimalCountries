@@ -60,7 +60,8 @@
         "male_life_expectancy": "65",
         "female_life_expectancy": "70",
         "urban_pop_%": "38",
-        "gnipc_ppp": "6,110"
+        "gnipc_ppp": "6,110",
+        "pop_online": 32.9486
     },
     {
         "ISO3": "PLW",
@@ -123,7 +124,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "72",
         "urban_pop_%": "82",
-        "gnipc_ppp": "17,940"
+        "gnipc_ppp": "17,940",
+        "pop_online": 26.9703
     },
     {
         "ISO3": "GAB",
@@ -186,7 +188,8 @@
         "male_life_expectancy": "66",
         "female_life_expectancy": "71",
         "urban_pop_%": "91",
-        "gnipc_ppp": "19,710"
+        "gnipc_ppp": "19,710",
+        "pop_online": 73.6951
     },
     {
         "ISO3": "IDN",
@@ -249,7 +252,8 @@
         "male_life_expectancy": "69",
         "female_life_expectancy": "73",
         "urban_pop_%": "59",
-        "gnipc_ppp": "15,210"
+        "gnipc_ppp": "15,210",
+        "pop_online": 69.2084
     },
     {
         "ISO3": "CMR",
@@ -312,7 +316,8 @@
         "male_life_expectancy": "62",
         "female_life_expectancy": "66",
         "urban_pop_%": "59",
-        "gnipc_ppp": "5,270"
+        "gnipc_ppp": "5,270",
+        "pop_online": 43.8629
     },
     {
         "ISO3": "COL",
@@ -375,7 +380,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "80",
         "urban_pop_%": "82",
-        "gnipc_ppp": "21,420"
+        "gnipc_ppp": "21,420",
+        "pop_online": 72.7964
     },
     {
         "ISO3": "LSO",
@@ -438,7 +444,8 @@
         "male_life_expectancy": "55",
         "female_life_expectancy": "60",
         "urban_pop_%": "30",
-        "gnipc_ppp": "3,270"
+        "gnipc_ppp": "3,270",
+        "pop_online": 47.0368
     },
     {
         "ISO3": "COG",
@@ -501,7 +508,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "74",
         "urban_pop_%": "69",
-        "gnipc_ppp": "6,550"
+        "gnipc_ppp": "6,550",
+        "pop_online": 0
     },
     {
         "ISO3": "BDI",
@@ -564,7 +572,8 @@
         "male_life_expectancy": "62",
         "female_life_expectancy": "66",
         "urban_pop_%": "15",
-        "gnipc_ppp": "950"
+        "gnipc_ppp": "950",
+        "pop_online": 11.275
     },
     {
         "ISO3": "TTO",
@@ -627,7 +636,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "77",
         "urban_pop_%": "53",
-        "gnipc_ppp": "30,400"
+        "gnipc_ppp": "30,400",
+        "pop_online": 79.9843
     },
     {
         "ISO3": "FRA",
@@ -690,7 +700,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "86",
         "urban_pop_%": "82",
-        "gnipc_ppp": "62,130"
+        "gnipc_ppp": "62,130",
+        "pop_online": 86.8364
     },
     {
         "ISO3": "ALB",
@@ -753,7 +764,8 @@
         "male_life_expectancy": "77",
         "female_life_expectancy": "81",
         "urban_pop_%": "65",
-        "gnipc_ppp": "21,110"
+        "gnipc_ppp": "21,110",
+        "pop_online": 83.1356
     },
     {
         "ISO3": "SRB",
@@ -816,7 +828,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "79",
         "urban_pop_%": "61",
-        "gnipc_ppp": "25,880"
+        "gnipc_ppp": "25,880",
+        "pop_online": 85.3575
     },
     {
         "ISO3": "ZMB",
@@ -879,7 +892,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "69",
         "urban_pop_%": "46",
-        "gnipc_ppp": "3,960"
+        "gnipc_ppp": "3,960",
+        "pop_online": 31.2342
     },
     {
         "ISO3": "MMR",
@@ -942,7 +956,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "72",
         "urban_pop_%": "32",
-        "gnipc_ppp": "5,800"
+        "gnipc_ppp": "5,800",
+        "pop_online": 44.02167324
     },
     {
         "ISO3": "PAN",
@@ -1005,7 +1020,8 @@
         "male_life_expectancy": "77",
         "female_life_expectancy": "83",
         "urban_pop_%": "72",
-        "gnipc_ppp": "38,110"
+        "gnipc_ppp": "38,110",
+        "pop_online": 73.6085
     },
     {
         "ISO3": "NIC",
@@ -1068,7 +1084,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "80",
         "urban_pop_%": "60",
-        "gnipc_ppp": "7,640"
+        "gnipc_ppp": "7,640",
+        "pop_online": 61.0524
     },
     {
         "ISO3": "NOR",
@@ -1131,7 +1148,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "85",
         "urban_pop_%": "84",
-        "gnipc_ppp": "108,790"
+        "gnipc_ppp": "108,790",
+        "pop_online": 99.0
     },
     {
         "ISO3": "IRL",
@@ -1194,7 +1212,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "84",
         "urban_pop_%": "64",
-        "gnipc_ppp": "98,650"
+        "gnipc_ppp": "98,650",
+        "pop_online": 95.5905
     },
     {
         "ISO3": "OMN",
@@ -1257,7 +1276,8 @@
         "male_life_expectancy": "78",
         "female_life_expectancy": "82",
         "urban_pop_%": "88",
-        "gnipc_ppp": "41,280"
+        "gnipc_ppp": "41,280",
+        "pop_online": 95.2517
     },
     {
         "ISO3": "SLV",
@@ -1320,7 +1340,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "76",
         "urban_pop_%": "80",
-        "gnipc_ppp": "11,750"
+        "gnipc_ppp": "11,750",
+        "pop_online": 62.8885
     },
     {
         "ISO3": "CPV",
@@ -1383,7 +1404,8 @@
         "male_life_expectancy": "73",
         "female_life_expectancy": "79",
         "urban_pop_%": "74",
-        "gnipc_ppp": "9,050"
+        "gnipc_ppp": "9,050",
+        "pop_online": 72.1021
     },
     {
         "ISO3": "GHA",
@@ -1446,7 +1468,8 @@
         "male_life_expectancy": "63",
         "female_life_expectancy": "68",
         "urban_pop_%": "59",
-        "gnipc_ppp": "7,370"
+        "gnipc_ppp": "7,370",
+        "pop_online": 69.8405
     },
     {
         "ISO3": "AUT",
@@ -1509,7 +1532,8 @@
         "male_life_expectancy": "79",
         "female_life_expectancy": "84",
         "urban_pop_%": "60",
-        "gnipc_ppp": "73,520"
+        "gnipc_ppp": "73,520",
+        "pop_online": 95.3347
     },
     {
         "ISO3": "LKA",
@@ -1572,7 +1596,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "80",
         "urban_pop_%": "19",
-        "gnipc_ppp": "13,990"
+        "gnipc_ppp": "13,990",
+        "pop_online": 50.1067
     },
     {
         "ISO3": "ARM",
@@ -1635,7 +1660,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "78",
         "urban_pop_%": "64",
-        "gnipc_ppp": "22,440"
+        "gnipc_ppp": "22,440",
+        "pop_online": 77.0277
     },
     {
         "ISO3": "NRU",
@@ -1698,7 +1724,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "64",
         "urban_pop_%": "100",
-        "gnipc_ppp": "21,570"
+        "gnipc_ppp": "21,570",
+        "pop_online": 82.6668
     },
     {
         "ISO3": "GNQ",
@@ -1761,7 +1788,8 @@
         "male_life_expectancy": "62",
         "female_life_expectancy": "66",
         "urban_pop_%": "74",
-        "gnipc_ppp": "13,420"
+        "gnipc_ppp": "13,420",
+        "pop_online": 66.8193
     },
     {
         "ISO3": "TUN",
@@ -1824,7 +1852,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "79",
         "urban_pop_%": "71",
-        "gnipc_ppp": "13,310"
+        "gnipc_ppp": "13,310",
+        "pop_online": 73.8379
     },
     {
         "ISO3": "GTM",
@@ -1887,7 +1916,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "75",
         "urban_pop_%": "53",
-        "gnipc_ppp": "13,820"
+        "gnipc_ppp": "13,820",
+        "pop_online": 54.4043
     },
     {
         "ISO3": "SEN",
@@ -1950,7 +1980,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "71",
         "urban_pop_%": "50",
-        "gnipc_ppp": "4,670"
+        "gnipc_ppp": "4,670",
+        "pop_online": 59.9832
     },
     {
         "ISO3": "ERI",
@@ -2013,7 +2044,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "71",
         "urban_pop_%": "43",
-        "gnipc_ppp": "0"
+        "gnipc_ppp": "0",
+        "pop_online": 26.5942
     },
     {
         "ISO3": "ESP",
@@ -2076,7 +2108,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "86",
         "urban_pop_%": "82",
-        "gnipc_ppp": "52,420"
+        "gnipc_ppp": "52,420",
+        "pop_online": 95.4456
     },
     {
         "ISO3": "FJI",
@@ -2139,7 +2172,8 @@
         "male_life_expectancy": "65",
         "female_life_expectancy": "68",
         "urban_pop_%": "59",
-        "gnipc_ppp": "14,000"
+        "gnipc_ppp": "14,000",
+        "pop_online": 85.2199
     },
     {
         "ISO3": "KAZ",
@@ -2202,7 +2236,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "79",
         "urban_pop_%": "62",
-        "gnipc_ppp": "35,420"
+        "gnipc_ppp": "35,420",
+        "pop_online": 92.8785
     },
     {
         "ISO3": "BHS",
@@ -2265,7 +2300,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "78",
         "urban_pop_%": "84",
-        "gnipc_ppp": "33,790"
+        "gnipc_ppp": "33,790",
+        "pop_online": 0
     },
     {
         "ISO3": "BFA",
@@ -2328,7 +2364,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "64",
         "urban_pop_%": "33",
-        "gnipc_ppp": "2,610"
+        "gnipc_ppp": "2,610",
+        "pop_online": 19.9237
     },
     {
         "ISO3": "SLE",
@@ -2391,7 +2428,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "64",
         "urban_pop_%": "44",
-        "gnipc_ppp": "2,130"
+        "gnipc_ppp": "2,130",
+        "pop_online": 30.3518
     },
     {
         "ISO3": "GEO",
@@ -2454,7 +2492,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "79",
         "urban_pop_%": "61",
-        "gnipc_ppp": "23,040"
+        "gnipc_ppp": "23,040",
+        "pop_online": 81.8842
     },
     {
         "ISO3": "PHL",
@@ -2517,7 +2556,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "73",
         "urban_pop_%": "54",
-        "gnipc_ppp": "11,940"
+        "gnipc_ppp": "11,940",
+        "pop_online": 75.2111
     },
     {
         "ISO3": "ETH",
@@ -2580,7 +2620,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "70",
         "urban_pop_%": "23",
-        "gnipc_ppp": "3,100"
+        "gnipc_ppp": "3,100",
+        "pop_online": 19.3781
     },
     {
         "ISO3": "SAU",
@@ -2643,7 +2684,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "81",
         "urban_pop_%": "85",
-        "gnipc_ppp": "55,290"
+        "gnipc_ppp": "55,290",
+        "pop_online": 100.0
     },
     {
         "ISO3": "TKM",
@@ -2706,7 +2748,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "73",
         "urban_pop_%": "54",
-        "gnipc_ppp": "16,860"
+        "gnipc_ppp": "16,860",
+        "pop_online": 21.251
     },
     {
         "ISO3": "MNE",
@@ -2769,7 +2812,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "79",
         "urban_pop_%": "69",
-        "gnipc_ppp": "31,520"
+        "gnipc_ppp": "31,520",
+        "pop_online": 88.2219
     },
     {
         "ISO3": "NER",
@@ -2832,7 +2876,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "62",
         "urban_pop_%": "17",
-        "gnipc_ppp": "1,750"
+        "gnipc_ppp": "1,750",
+        "pop_online": 16.937
     },
     {
         "ISO3": "VUT",
@@ -2895,7 +2940,8 @@
         "male_life_expectancy": "69",
         "female_life_expectancy": "74",
         "urban_pop_%": "26",
-        "gnipc_ppp": "3,770"
+        "gnipc_ppp": "3,770",
+        "pop_online": 69.8888
     },
     {
         "ISO3": "HTI",
@@ -2958,7 +3004,8 @@
         "male_life_expectancy": "63",
         "female_life_expectancy": "67",
         "urban_pop_%": "60",
-        "gnipc_ppp": "3,260"
+        "gnipc_ppp": "3,260",
+        "pop_online": 38.94501834
     },
     {
         "ISO3": "MWI",
@@ -3021,7 +3068,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "71",
         "urban_pop_%": "18",
-        "gnipc_ppp": "1,820"
+        "gnipc_ppp": "1,820",
+        "pop_online": 18.0
     },
     {
         "ISO3": "CHE",
@@ -3084,7 +3132,8 @@
         "male_life_expectancy": "82",
         "female_life_expectancy": "86",
         "urban_pop_%": "74",
-        "gnipc_ppp": "90,080"
+        "gnipc_ppp": "90,080",
+        "pop_online": 97.3444
     },
     {
         "ISO3": "URY",
@@ -3147,7 +3196,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "82",
         "urban_pop_%": "96",
-        "gnipc_ppp": "31,690"
+        "gnipc_ppp": "31,690",
+        "pop_online": 89.873
     },
     {
         "ISO3": "TCD",
@@ -3210,7 +3260,8 @@
         "male_life_expectancy": "53",
         "female_life_expectancy": "57",
         "urban_pop_%": "24",
-        "gnipc_ppp": "1,940"
+        "gnipc_ppp": "1,940",
+        "pop_online": 12.1839
     },
     {
         "ISO3": "UGA",
@@ -3273,7 +3324,8 @@
         "male_life_expectancy": "65",
         "female_life_expectancy": "71",
         "urban_pop_%": "27",
-        "gnipc_ppp": "3,040"
+        "gnipc_ppp": "3,040",
+        "pop_online": 10.0
     },
     {
         "ISO3": "ZWE",
@@ -3336,7 +3388,8 @@
         "male_life_expectancy": "61",
         "female_life_expectancy": "68",
         "urban_pop_%": "39",
-        "gnipc_ppp": "3,850"
+        "gnipc_ppp": "3,850",
+        "pop_online": 32.5615
     },
     {
         "ISO3": "SUR",
@@ -3399,7 +3452,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "77",
         "urban_pop_%": "66",
-        "gnipc_ppp": "19,330"
+        "gnipc_ppp": "19,330",
+        "pop_online": 75.7614
     },
     {
         "ISO3": "BGR",
@@ -3462,7 +3516,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "77",
         "urban_pop_%": "77",
-        "gnipc_ppp": "37,380"
+        "gnipc_ppp": "37,380",
+        "pop_online": 80.3896
     },
     {
         "ISO3": "PRT",
@@ -3525,7 +3580,8 @@
         "male_life_expectancy": "78",
         "female_life_expectancy": "84",
         "urban_pop_%": "68",
-        "gnipc_ppp": "47,850"
+        "gnipc_ppp": "47,850",
+        "pop_online": 85.7901
     },
     {
         "ISO3": "ISL",
@@ -3588,7 +3644,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "84",
         "urban_pop_%": "94",
-        "gnipc_ppp": "79,290"
+        "gnipc_ppp": "79,290",
+        "pop_online": 99.8565
     },
     {
         "ISO3": "COM",
@@ -3651,7 +3708,8 @@
         "male_life_expectancy": "65",
         "female_life_expectancy": "69",
         "urban_pop_%": "30",
-        "gnipc_ppp": "3,860"
+        "gnipc_ppp": "3,860",
+        "pop_online": 27.33694319
     },
     {
         "ISO3": "YEM",
@@ -3714,7 +3772,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "66",
         "urban_pop_%": "40",
-        "gnipc_ppp": "0"
+        "gnipc_ppp": "0",
+        "pop_online": 0
     },
     {
         "ISO3": "TGO",
@@ -3777,7 +3836,8 @@
         "male_life_expectancy": "63",
         "female_life_expectancy": "63",
         "urban_pop_%": "44",
-        "gnipc_ppp": "3,170"
+        "gnipc_ppp": "3,170",
+        "pop_online": 37.6212
     },
     {
         "ISO3": "PRY",
@@ -3840,7 +3900,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "77",
         "urban_pop_%": "63",
-        "gnipc_ppp": "16,910"
+        "gnipc_ppp": "16,910",
+        "pop_online": 78.0948
     },
     {
         "ISO3": "MEX",
@@ -3903,7 +3964,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "78",
         "urban_pop_%": "82",
-        "gnipc_ppp": "24,970"
+        "gnipc_ppp": "24,970",
+        "pop_online": 81.1832
     },
     {
         "ISO3": "ITA",
@@ -3966,7 +4028,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "85",
         "urban_pop_%": "72",
-        "gnipc_ppp": "58,650"
+        "gnipc_ppp": "58,650",
+        "pop_online": 87.0278
     },
     {
         "ISO3": "DNK",
@@ -4029,7 +4092,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "83",
         "urban_pop_%": "88",
-        "gnipc_ppp": "79,390"
+        "gnipc_ppp": "79,390",
+        "pop_online": 98.7756
     },
     {
         "ISO3": "GRD",
@@ -4092,7 +4156,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "78",
         "urban_pop_%": "37",
-        "gnipc_ppp": "16,550"
+        "gnipc_ppp": "16,550",
+        "pop_online": 79.8955
     },
     {
         "ISO3": "HND",
@@ -4155,7 +4220,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "76",
         "urban_pop_%": "60",
-        "gnipc_ppp": "6,680"
+        "gnipc_ppp": "6,680",
+        "pop_online": 59.7135
     },
     {
         "ISO3": "SVN",
@@ -4218,7 +4284,8 @@
         "male_life_expectancy": "78",
         "female_life_expectancy": "84",
         "urban_pop_%": "56",
-        "gnipc_ppp": "54,130"
+        "gnipc_ppp": "54,130",
+        "pop_online": 90.3779
     },
     {
         "ISO3": "SMR",
@@ -4281,7 +4348,8 @@
         "male_life_expectancy": "83",
         "female_life_expectancy": "87",
         "urban_pop_%": "98",
-        "gnipc_ppp": "59,020"
+        "gnipc_ppp": "59,020",
+        "pop_online": 85.0607
     },
     {
         "ISO3": "KEN",
@@ -4344,7 +4412,8 @@
         "male_life_expectancy": "61",
         "female_life_expectancy": "66",
         "urban_pop_%": "30",
-        "gnipc_ppp": "6,220"
+        "gnipc_ppp": "6,220",
+        "pop_online": 40.8137
     },
     {
         "ISO3": "GUY",
@@ -4407,7 +4476,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "74",
         "urban_pop_%": "27",
-        "gnipc_ppp": "50,060"
+        "gnipc_ppp": "50,060",
+        "pop_online": 85.3163
     },
     {
         "ISO3": "EGY",
@@ -4470,7 +4540,8 @@
         "male_life_expectancy": "69",
         "female_life_expectancy": "74",
         "urban_pop_%": "43",
-        "gnipc_ppp": "17,990"
+        "gnipc_ppp": "17,990",
+        "pop_online": 0
     },
     {
         "ISO3": "JAM",
@@ -4533,7 +4604,8 @@
         "male_life_expectancy": "69",
         "female_life_expectancy": "74",
         "urban_pop_%": "57",
-        "gnipc_ppp": "11,160"
+        "gnipc_ppp": "11,160",
+        "pop_online": 85.1185
     },
     {
         "ISO3": "MOZ",
@@ -4596,7 +4668,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "67",
         "urban_pop_%": "39",
-        "gnipc_ppp": "1,510"
+        "gnipc_ppp": "1,510",
+        "pop_online": 21.207
     },
     {
         "ISO3": "ARE",
@@ -4659,7 +4732,8 @@
         "male_life_expectancy": "82",
         "female_life_expectancy": "84",
         "urban_pop_%": "88",
-        "gnipc_ppp": "83,750"
+        "gnipc_ppp": "83,750",
+        "pop_online": 100.0
     },
     {
         "ISO3": "CHN",
@@ -4722,7 +4796,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "81",
         "urban_pop_%": "66",
-        "gnipc_ppp": "24,380"
+        "gnipc_ppp": "24,380",
+        "pop_online": 77.4827
     },
     {
         "ISO3": "SDN",
@@ -4785,7 +4860,8 @@
         "male_life_expectancy": "63",
         "female_life_expectancy": "70",
         "urban_pop_%": "36",
-        "gnipc_ppp": "3,110"
+        "gnipc_ppp": "3,110",
+        "pop_online": 28.7045
     },
     {
         "ISO3": "BHR",
@@ -4848,7 +4924,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "82",
         "urban_pop_%": "90",
-        "gnipc_ppp": "60,090"
+        "gnipc_ppp": "60,090",
+        "pop_online": 100.0
     },
     {
         "ISO3": "NLD",
@@ -4911,7 +4988,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "83",
         "urban_pop_%": "93",
-        "gnipc_ppp": "77,750"
+        "gnipc_ppp": "77,750",
+        "pop_online": 97.0068
     },
     {
         "ISO3": "MKD",
@@ -4974,7 +5052,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "80",
         "urban_pop_%": "59",
-        "gnipc_ppp": "23,510"
+        "gnipc_ppp": "23,510",
+        "pop_online": 84.2304
     },
     {
         "ISO3": "QAT",
@@ -5037,7 +5116,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "83",
         "urban_pop_%": "100",
-        "gnipc_ppp": "116,870"
+        "gnipc_ppp": "116,870",
+        "pop_online": 100.0
     },
     {
         "ISO3": "CIV",
@@ -5100,7 +5180,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "64",
         "urban_pop_%": "53",
-        "gnipc_ppp": "7,480"
+        "gnipc_ppp": "7,480",
+        "pop_online": 0
     },
     {
         "ISO3": "CRI",
@@ -5163,7 +5244,8 @@
         "male_life_expectancy": "78",
         "female_life_expectancy": "84",
         "urban_pop_%": "83",
-        "gnipc_ppp": "25,800"
+        "gnipc_ppp": "25,800",
+        "pop_online": 85.127
     },
     {
         "ISO3": "GBR",
@@ -5226,7 +5308,8 @@
         "male_life_expectancy": "79",
         "female_life_expectancy": "83",
         "urban_pop_%": "85",
-        "gnipc_ppp": "58,140"
+        "gnipc_ppp": "58,140",
+        "pop_online": 95.3412
     },
     {
         "ISO3": "FIN",
@@ -5289,7 +5372,8 @@
         "male_life_expectancy": "79",
         "female_life_expectancy": "84",
         "urban_pop_%": "86",
-        "gnipc_ppp": "64,940"
+        "gnipc_ppp": "64,940",
+        "pop_online": 93.5139
     },
     {
         "ISO3": "KHM",
@@ -5352,7 +5436,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "73",
         "urban_pop_%": "39",
-        "gnipc_ppp": "5,460"
+        "gnipc_ppp": "5,460",
+        "pop_online": 56.7328
     },
     {
         "ISO3": "MYS",
@@ -5415,7 +5500,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "79",
         "urban_pop_%": "79",
-        "gnipc_ppp": "36,120"
+        "gnipc_ppp": "36,120",
+        "pop_online": 97.6927
     },
     {
         "ISO3": "UZB",
@@ -5478,7 +5564,8 @@
         "male_life_expectancy": "73",
         "female_life_expectancy": "77",
         "urban_pop_%": "51",
-        "gnipc_ppp": "9,640"
+        "gnipc_ppp": "9,640",
+        "pop_online": 89.0136
     },
     {
         "ISO3": "KIR",
@@ -5541,7 +5628,8 @@
         "male_life_expectancy": "65",
         "female_life_expectancy": "68",
         "urban_pop_%": "58",
-        "gnipc_ppp": "5,900"
+        "gnipc_ppp": "5,900",
+        "pop_online": 54.4214
     },
     {
         "ISO3": "BRA",
@@ -5604,7 +5692,8 @@
         "male_life_expectancy": "73",
         "female_life_expectancy": "79",
         "urban_pop_%": "88",
-        "gnipc_ppp": "19,990"
+        "gnipc_ppp": "19,990",
+        "pop_online": 84.1506
     },
     {
         "ISO3": "CAF",
@@ -5667,7 +5756,8 @@
         "male_life_expectancy": "55",
         "female_life_expectancy": "59",
         "urban_pop_%": "44",
-        "gnipc_ppp": "1,200"
+        "gnipc_ppp": "1,200",
+        "pop_online": 10.58263964
     },
     {
         "ISO3": "ZAF",
@@ -5730,7 +5820,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "69",
         "urban_pop_%": "69",
-        "gnipc_ppp": "15,630"
+        "gnipc_ppp": "15,630",
+        "pop_online": 74.703
     },
     {
         "ISO3": "DJI",
@@ -5793,7 +5884,8 @@
         "male_life_expectancy": "62",
         "female_life_expectancy": "65",
         "urban_pop_%": "79",
-        "gnipc_ppp": "7,040"
+        "gnipc_ppp": "7,040",
+        "pop_online": 65.0322
     },
     {
         "ISO3": "MDV",
@@ -5856,7 +5948,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "83",
         "urban_pop_%": "42",
-        "gnipc_ppp": "21,720"
+        "gnipc_ppp": "21,720",
+        "pop_online": 83.9119
     },
     {
         "ISO3": "HRV",
@@ -5919,7 +6012,8 @@
         "male_life_expectancy": "77",
         "female_life_expectancy": "82",
         "urban_pop_%": "59",
-        "gnipc_ppp": "45,950"
+        "gnipc_ppp": "45,950",
+        "pop_online": 83.2412
     },
     {
         "ISO3": "BTN",
@@ -5982,7 +6076,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "75",
         "urban_pop_%": "44",
-        "gnipc_ppp": "14,240"
+        "gnipc_ppp": "14,240",
+        "pop_online": 86.8403
     },
     {
         "ISO3": "AZE",
@@ -6045,7 +6140,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "78",
         "urban_pop_%": "58",
-        "gnipc_ppp": "22,640"
+        "gnipc_ppp": "22,640",
+        "pop_online": 88.0
     },
     {
         "ISO3": "SYC",
@@ -6108,7 +6204,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "78",
         "urban_pop_%": "59",
-        "gnipc_ppp": "32,440"
+        "gnipc_ppp": "32,440",
+        "pop_online": 86.6654
     },
     {
         "ISO3": "AFG",
@@ -6171,7 +6268,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "68",
         "urban_pop_%": "27",
-        "gnipc_ppp": "2,100"
+        "gnipc_ppp": "2,100",
+        "pop_online": 18.4
     },
     {
         "ISO3": "PNG",
@@ -6234,7 +6332,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "69",
         "urban_pop_%": "14",
-        "gnipc_ppp": "4,340"
+        "gnipc_ppp": "4,340",
+        "pop_online": 26.991
     },
     {
         "ISO3": "BGD",
@@ -6297,7 +6396,8 @@
         "male_life_expectancy": "73",
         "female_life_expectancy": "76",
         "urban_pop_%": "40",
-        "gnipc_ppp": "9,430"
+        "gnipc_ppp": "9,430",
+        "pop_online": 44.5027
     },
     {
         "ISO3": "CYP",
@@ -6360,7 +6460,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "84",
         "urban_pop_%": "67",
-        "gnipc_ppp": "51,330"
+        "gnipc_ppp": "51,330",
+        "pop_online": 91.2212
     },
     {
         "ISO3": "MAR",
@@ -6423,7 +6524,8 @@
         "male_life_expectancy": "73",
         "female_life_expectancy": "78",
         "urban_pop_%": "65",
-        "gnipc_ppp": "9,600"
+        "gnipc_ppp": "9,600",
+        "pop_online": 89.9
     },
     {
         "ISO3": "POL",
@@ -6486,7 +6588,8 @@
         "male_life_expectancy": "73",
         "female_life_expectancy": "81",
         "urban_pop_%": "60",
-        "gnipc_ppp": "47,380"
+        "gnipc_ppp": "47,380",
+        "pop_online": 86.4147
     },
     {
         "ISO3": "IND",
@@ -6549,7 +6652,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "74",
         "urban_pop_%": "36",
-        "gnipc_ppp": "10,030"
+        "gnipc_ppp": "10,030",
+        "pop_online": 43.4054
     },
     {
         "ISO3": "IRQ",
@@ -6612,7 +6716,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "76",
         "urban_pop_%": "72",
-        "gnipc_ppp": "14,040"
+        "gnipc_ppp": "14,040",
+        "pop_online": 78.7156
     },
     {
         "ISO3": "TUV",
@@ -6675,7 +6780,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "71",
         "urban_pop_%": "66",
-        "gnipc_ppp": "7,790"
+        "gnipc_ppp": "7,790",
+        "pop_online": 81.1913
     },
     {
         "ISO3": "HUN",
@@ -6738,7 +6844,8 @@
         "male_life_expectancy": "73",
         "female_life_expectancy": "80",
         "urban_pop_%": "73",
-        "gnipc_ppp": "44,650"
+        "gnipc_ppp": "44,650",
+        "pop_online": 91.4501
     },
     {
         "ISO3": "TON",
@@ -6801,7 +6908,8 @@
         "male_life_expectancy": "69",
         "female_life_expectancy": "76",
         "urban_pop_%": "23",
-        "gnipc_ppp": "7,560"
+        "gnipc_ppp": "7,560",
+        "pop_online": 57.5486
     },
     {
         "ISO3": "BEN",
@@ -6864,7 +6972,8 @@
         "male_life_expectancy": "59",
         "female_life_expectancy": "62",
         "urban_pop_%": "50",
-        "gnipc_ppp": "4,220"
+        "gnipc_ppp": "4,220",
+        "pop_online": 33.7602
     },
     {
         "ISO3": "LUX",
@@ -6927,7 +7036,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "85",
         "urban_pop_%": "92",
-        "gnipc_ppp": "98,490"
+        "gnipc_ppp": "98,490",
+        "pop_online": 99.3479
     },
     {
         "ISO3": "CUB",
@@ -6990,7 +7100,8 @@
         "male_life_expectancy": "76",
         "female_life_expectancy": "81",
         "urban_pop_%": "78",
-        "gnipc_ppp": "0"
+        "gnipc_ppp": "0",
+        "pop_online": 73.2178
     },
     {
         "ISO3": "DMA",
@@ -7053,7 +7164,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "75",
         "urban_pop_%": "72",
-        "gnipc_ppp": "17,650"
+        "gnipc_ppp": "17,650",
+        "pop_online": 83.3767
     },
     {
         "ISO3": "LIE",
@@ -7116,7 +7228,8 @@
         "male_life_expectancy": "83",
         "female_life_expectancy": "85",
         "urban_pop_%": "15",
-        "gnipc_ppp": "0"
+        "gnipc_ppp": "0",
+        "pop_online": 96.8046
     },
     {
         "ISO3": "NZL",
@@ -7179,7 +7292,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "84",
         "urban_pop_%": "87",
-        "gnipc_ppp": "52,750"
+        "gnipc_ppp": "52,750",
+        "pop_online": 95.7299
     },
     {
         "ISO3": "LBY",
@@ -7242,7 +7356,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "70",
         "urban_pop_%": "82",
-        "gnipc_ppp": "19,670"
+        "gnipc_ppp": "19,670",
+        "pop_online": 88.4281
     },
     {
         "ISO3": "BEL",
@@ -7305,7 +7420,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "84",
         "urban_pop_%": "98",
-        "gnipc_ppp": "71,990"
+        "gnipc_ppp": "71,990",
+        "pop_online": 94.6263
     },
     {
         "ISO3": "GNB",
@@ -7368,7 +7484,8 @@
         "male_life_expectancy": "62",
         "female_life_expectancy": "66",
         "urban_pop_%": "45",
-        "gnipc_ppp": "2,670"
+        "gnipc_ppp": "2,670",
+        "pop_online": 31.567
     },
     {
         "ISO3": "MHL",
@@ -7431,7 +7548,8 @@
         "male_life_expectancy": "65",
         "female_life_expectancy": "69",
         "urban_pop_%": "79",
-        "gnipc_ppp": "8,570"
+        "gnipc_ppp": "8,570",
+        "pop_online": 73.2238
     },
     {
         "ISO3": "LBR",
@@ -7494,7 +7612,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "63",
         "urban_pop_%": "54",
-        "gnipc_ppp": "1,700"
+        "gnipc_ppp": "1,700",
+        "pop_online": 30.1275
     },
     {
         "ISO3": "LVA",
@@ -7557,7 +7676,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "80",
         "urban_pop_%": "70",
-        "gnipc_ppp": "41,420"
+        "gnipc_ppp": "41,420",
+        "pop_online": 92.1879
     },
     {
         "ISO3": "UKR",
@@ -7620,7 +7740,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "80",
         "urban_pop_%": "70",
-        "gnipc_ppp": "18,560"
+        "gnipc_ppp": "18,560",
+        "pop_online": 79.2183
     },
     {
         "ISO3": "LTU",
@@ -7683,7 +7804,8 @@
         "male_life_expectancy": "80",
         "female_life_expectancy": "71",
         "urban_pop_%": "69",
-        "gnipc_ppp": "50,100"
+        "gnipc_ppp": "50,100",
+        "pop_online": 88.5029
     },
     {
         "ISO3": "GIN",
@@ -7746,7 +7868,8 @@
         "male_life_expectancy": "60",
         "female_life_expectancy": "63",
         "urban_pop_%": "38",
-        "gnipc_ppp": "3,940"
+        "gnipc_ppp": "3,940",
+        "pop_online": 33.923
     },
     {
         "ISO3": "BWA",
@@ -7809,7 +7932,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "72",
         "urban_pop_%": "73",
-        "gnipc_ppp": "19,140"
+        "gnipc_ppp": "19,140",
+        "pop_online": 77.3272
     },
     {
         "ISO3": "LBN",
@@ -7872,7 +7996,8 @@
         "male_life_expectancy": "76",
         "female_life_expectancy": "80",
         "urban_pop_%": "89",
-        "gnipc_ppp": "12,490"
+        "gnipc_ppp": "12,490",
+        "pop_online": 90.0522
     },
     {
         "ISO3": "MDG",
@@ -7935,7 +8060,8 @@
         "male_life_expectancy": "66",
         "female_life_expectancy": "70",
         "urban_pop_%": "41",
-        "gnipc_ppp": "1,840"
+        "gnipc_ppp": "1,840",
+        "pop_online": 20.5777
     },
     {
         "ISO3": "MRT",
@@ -7998,7 +8124,8 @@
         "male_life_expectancy": "67",
         "female_life_expectancy": "70",
         "urban_pop_%": "58",
-        "gnipc_ppp": "6,930"
+        "gnipc_ppp": "6,930",
+        "pop_online": 44.3616
     },
     {
         "ISO3": "SSD",
@@ -8061,7 +8188,8 @@
         "male_life_expectancy": "55",
         "female_life_expectancy": "61",
         "urban_pop_%": "21",
-        "gnipc_ppp": "0"
+        "gnipc_ppp": "0",
+        "pop_online": 12.1407
     },
     {
         "ISO3": "MLI",
@@ -8124,7 +8252,8 @@
         "male_life_expectancy": "59",
         "female_life_expectancy": "61",
         "urban_pop_%": "46",
-        "gnipc_ppp": "2,600"
+        "gnipc_ppp": "2,600",
+        "pop_online": 33.0528
     },
     {
         "ISO3": "AGO",
@@ -8187,7 +8316,8 @@
         "male_life_expectancy": "62",
         "female_life_expectancy": "67",
         "urban_pop_%": "69",
-        "gnipc_ppp": "7,310"
+        "gnipc_ppp": "7,310",
+        "pop_online": 39.2935
     },
     {
         "ISO3": "SLB",
@@ -8250,7 +8380,8 @@
         "male_life_expectancy": "69",
         "female_life_expectancy": "72",
         "urban_pop_%": "26",
-        "gnipc_ppp": "3,080"
+        "gnipc_ppp": "3,080",
+        "pop_online": 44.9575
     },
     {
         "ISO3": "AND",
@@ -8313,7 +8444,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "86",
         "urban_pop_%": "88",
-        "gnipc_ppp": "75,090"
+        "gnipc_ppp": "75,090",
+        "pop_online": 94.4855
     },
     {
         "ISO3": "DEU",
@@ -8376,7 +8508,8 @@
         "male_life_expectancy": "78",
         "female_life_expectancy": "83",
         "urban_pop_%": "78",
-        "gnipc_ppp": "72,110"
+        "gnipc_ppp": "72,110",
+        "pop_online": 92.4764
     },
     {
         "ISO3": "SVK",
@@ -8439,7 +8572,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "80",
         "urban_pop_%": "54",
-        "gnipc_ppp": "43,500"
+        "gnipc_ppp": "43,500",
+        "pop_online": 0
     },
     {
         "ISO3": "MCO",
@@ -8502,7 +8636,8 @@
         "male_life_expectancy": "84",
         "female_life_expectancy": "89",
         "urban_pop_%": "100",
-        "gnipc_ppp": "0"
+        "gnipc_ppp": "0",
+        "pop_online": 98.3776
     },
     {
         "ISO3": "ECU",
@@ -8565,7 +8700,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "80",
         "urban_pop_%": "65",
-        "gnipc_ppp": "15,510"
+        "gnipc_ppp": "15,510",
+        "pop_online": 72.6943
     },
     {
         "ISO3": "ARG",
@@ -8628,7 +8764,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "80",
         "urban_pop_%": "92",
-        "gnipc_ppp": "28,710"
+        "gnipc_ppp": "28,710",
+        "pop_online": 89.229
     },
     {
         "ISO3": "DOM",
@@ -8691,7 +8828,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "74",
         "urban_pop_%": "84",
-        "gnipc_ppp": "24,460"
+        "gnipc_ppp": "24,460",
+        "pop_online": 84.3832
     },
     {
         "ISO3": "MLT",
@@ -8754,7 +8892,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "85",
         "urban_pop_%": "95",
-        "gnipc_ppp": "56,880"
+        "gnipc_ppp": "56,880",
+        "pop_online": 91.9155
     },
     {
         "ISO3": "BLZ",
@@ -8817,7 +8956,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "76",
         "urban_pop_%": "47",
-        "gnipc_ppp": "13,710"
+        "gnipc_ppp": "13,710",
+        "pop_online": 70.354
     },
     {
         "ISO3": "GMB",
@@ -8880,7 +9020,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "68",
         "urban_pop_%": "64",
-        "gnipc_ppp": "3,120"
+        "gnipc_ppp": "3,120",
+        "pop_online": 0
     },
     {
         "ISO3": "EST",
@@ -8943,7 +9084,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "83",
         "urban_pop_%": "70",
-        "gnipc_ppp": "47,350"
+        "gnipc_ppp": "47,350",
+        "pop_online": 93.1834
     },
     {
         "ISO3": "JOR",
@@ -9006,7 +9148,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "75",
         "urban_pop_%": "92",
-        "gnipc_ppp": "10,360"
+        "gnipc_ppp": "10,360",
+        "pop_online": 90.5
     },
     {
         "ISO3": "KGZ",
@@ -9069,7 +9212,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "76",
         "urban_pop_%": "38",
-        "gnipc_ppp": "6,750"
+        "gnipc_ppp": "6,750",
+        "pop_online": 0
     },
     {
         "ISO3": "WSM",
@@ -9132,7 +9276,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "74",
         "urban_pop_%": "18",
-        "gnipc_ppp": "6,600"
+        "gnipc_ppp": "6,600",
+        "pop_online": 75.2869
     },
     {
         "ISO3": "NGA",
@@ -9195,7 +9340,8 @@
         "male_life_expectancy": "54",
         "female_life_expectancy": "55",
         "urban_pop_%": "54",
-        "gnipc_ppp": "6,200"
+        "gnipc_ppp": "6,200",
+        "pop_online": 35.4563
     },
     {
         "ISO3": "THA",
@@ -9258,7 +9404,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "80",
         "urban_pop_%": "62",
-        "gnipc_ppp": "22,880"
+        "gnipc_ppp": "22,880",
+        "pop_online": 89.5352
     },
     {
         "ISO3": "ATG",
@@ -9321,7 +9468,8 @@
         "male_life_expectancy": "76",
         "female_life_expectancy": "81",
         "urban_pop_%": "24",
-        "gnipc_ppp": "30,350"
+        "gnipc_ppp": "30,350",
+        "pop_online": 91.4123
     },
     {
         "ISO3": "PER",
@@ -9384,7 +9532,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "80",
         "urban_pop_%": "82",
-        "gnipc_ppp": "15,860"
+        "gnipc_ppp": "15,860",
+        "pop_online": 74.675
     },
     {
         "ISO3": "MNG",
@@ -9447,7 +9596,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "67",
         "urban_pop_%": "70",
-        "gnipc_ppp": "16,390"
+        "gnipc_ppp": "16,390",
+        "pop_online": 83.9145
     },
     {
         "ISO3": "TUR",
@@ -9510,7 +9660,8 @@
         "male_life_expectancy": "75",
         "female_life_expectancy": "80",
         "urban_pop_%": "78",
-        "gnipc_ppp": "43,700"
+        "gnipc_ppp": "43,700",
+        "pop_online": 0
     },
     {
         "ISO3": "GRC",
@@ -9573,7 +9724,8 @@
         "male_life_expectancy": "78",
         "female_life_expectancy": "83",
         "urban_pop_%": "81",
-        "gnipc_ppp": "40,880"
+        "gnipc_ppp": "40,880",
+        "pop_online": 85.0102
     },
     {
         "ISO3": "ROU",
@@ -9636,7 +9788,8 @@
         "male_life_expectancy": "71",
         "female_life_expectancy": "78",
         "urban_pop_%": "55",
-        "gnipc_ppp": "46,620"
+        "gnipc_ppp": "46,620",
+        "pop_online": 89.2034
     },
     {
         "ISO3": "CAN",
@@ -9699,7 +9852,8 @@
         "male_life_expectancy": "79",
         "female_life_expectancy": "84",
         "urban_pop_%": "82",
-        "gnipc_ppp": "60,700"
+        "gnipc_ppp": "60,700",
+        "pop_online": 94.0
     },
     {
         "ISO3": "AUS",
@@ -9762,7 +9916,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "85",
         "urban_pop_%": "90",
-        "gnipc_ppp": "66,260"
+        "gnipc_ppp": "66,260",
+        "pop_online": 94.8762
     },
     {
         "ISO3": "KWT",
@@ -9825,7 +9980,8 @@
         "male_life_expectancy": "79",
         "female_life_expectancy": "82",
         "urban_pop_%": "100",
-        "gnipc_ppp": "67,730"
+        "gnipc_ppp": "67,730",
+        "pop_online": 99.7473
     },
     {
         "ISO3": "NAM",
@@ -9888,7 +10044,8 @@
         "male_life_expectancy": "62",
         "female_life_expectancy": "65",
         "urban_pop_%": "55",
-        "gnipc_ppp": "12,170"
+        "gnipc_ppp": "12,170",
+        "pop_online": 62.215
     },
     {
         "ISO3": "TLS",
@@ -9951,7 +10108,8 @@
         "male_life_expectancy": "64",
         "female_life_expectancy": "69",
         "urban_pop_%": "37",
-        "gnipc_ppp": "5,880"
+        "gnipc_ppp": "5,880",
+        "pop_online": 40.7521
     },
     {
         "ISO3": "CZE",
@@ -10014,7 +10172,8 @@
         "male_life_expectancy": "77",
         "female_life_expectancy": "83",
         "urban_pop_%": "75",
-        "gnipc_ppp": "51,370"
+        "gnipc_ppp": "51,370",
+        "pop_online": 85.9941
     },
     {
         "ISO3": "ISR",
@@ -10077,7 +10236,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "85",
         "urban_pop_%": "93",
-        "gnipc_ppp": "53,340"
+        "gnipc_ppp": "53,340",
+        "pop_online": 91.8508
     },
     {
         "ISO3": "BRB",
@@ -10140,7 +10300,8 @@
         "male_life_expectancy": "74",
         "female_life_expectancy": "79",
         "urban_pop_%": "31",
-        "gnipc_ppp": "18,550"
+        "gnipc_ppp": "18,550",
+        "pop_online": 76.2053
     },
     {
         "ISO3": "DZA",
@@ -10203,7 +10364,8 @@
         "male_life_expectancy": "77",
         "female_life_expectancy": "79",
         "urban_pop_%": "75",
-        "gnipc_ppp": "16,790"
+        "gnipc_ppp": "16,790",
+        "pop_online": 71.2432
     },
     {
         "ISO3": "CHL",
@@ -10266,7 +10428,8 @@
         "male_life_expectancy": "79",
         "female_life_expectancy": "83",
         "urban_pop_%": "89",
-        "gnipc_ppp": "31,590"
+        "gnipc_ppp": "31,590",
+        "pop_online": 94.1192
     },
     {
         "ISO3": "MUS",
@@ -10329,7 +10492,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "78",
         "urban_pop_%": "41",
-        "gnipc_ppp": "30,230"
+        "gnipc_ppp": "30,230",
+        "pop_online": 75.5
     },
     {
         "ISO3": "JPN",
@@ -10392,7 +10556,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "87",
         "urban_pop_%": "92",
-        "gnipc_ppp": "52,640"
+        "gnipc_ppp": "52,640",
+        "pop_online": 84.9234
     },
     {
         "ISO3": "NPL",
@@ -10455,7 +10620,8 @@
         "male_life_expectancy": "69",
         "female_life_expectancy": "72",
         "urban_pop_%": "22",
-        "gnipc_ppp": "5,240"
+        "gnipc_ppp": "5,240",
+        "pop_online": 49.5609
     },
     {
         "ISO3": "SGP",
@@ -10518,7 +10684,8 @@
         "male_life_expectancy": "81",
         "female_life_expectancy": "85",
         "urban_pop_%": "100",
-        "gnipc_ppp": "118,710"
+        "gnipc_ppp": "118,710",
+        "pop_online": 94.2863
     },
     {
         "ISO3": "BLR",
@@ -10581,7 +10748,8 @@
         "male_life_expectancy": "70",
         "female_life_expectancy": "80",
         "urban_pop_%": "81",
-        "gnipc_ppp": "29,640"
+        "gnipc_ppp": "29,640",
+        "pop_online": 91.5125
     },
     {
         "ISO3": "RWA",
@@ -10644,7 +10812,8 @@
         "male_life_expectancy": "68",
         "female_life_expectancy": "71",
         "urban_pop_%": "23",
-        "gnipc_ppp": "3,290"
+        "gnipc_ppp": "3,290",
+        "pop_online": 34.4405
     },
     {
         "ISO3": "SWE",
@@ -10707,7 +10876,8 @@
         "male_life_expectancy": "82",
         "female_life_expectancy": "85",
         "urban_pop_%": "89",
-        "gnipc_ppp": "72,990"
+        "gnipc_ppp": "72,990",
+        "pop_online": 95.7033
     },
     {
         "ISO3": "TJK",
@@ -10770,7 +10940,8 @@
         "male_life_expectancy": "72",
         "female_life_expectancy": "75",
         "urban_pop_%": "28",
-        "gnipc_ppp": "6,380"
+        "gnipc_ppp": "6,380",
+        "pop_online": 36.0872
     },
     {
         "ISO3": "SOM",
@@ -10833,6 +11004,7 @@
         "male_life_expectancy": "56",
         "female_life_expectancy": "61",
         "urban_pop_%": "48",
-        "gnipc_ppp": "1,610"
+        "gnipc_ppp": "1,610",
+        "pop_online": 27.6
     }
 ]
