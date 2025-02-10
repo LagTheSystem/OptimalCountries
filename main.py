@@ -1,3 +1,6 @@
+
+# OLD RANKING METHOD, LESS DATA POINTS AND LESS ACCURATE.
+
 import json
 
 with open('countrydata.json', 'r') as file:

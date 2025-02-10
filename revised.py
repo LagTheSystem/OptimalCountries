@@ -3,7 +3,7 @@ import json
 with open('filtered_country_data.json', 'r') as file:
     data = json.load(file)
 
-data_types = ["tfr_score", "imr", "gii", "education", "life_expectancy", "gnipc", "rni_score", "hdi", "pop_online"]
+data_types = ["tfr_score", "imr", "gii", "education", "life_expectancy", "gnipc", "rni_score", "hdi", "pop_online", "prison_pop", "co2_pc"]
 
 ranks = []
 
@@ -27,7 +27,7 @@ def calculateWins():
                 for k in range(len(data_types)):
                     if (isBetter(ranks, data_types[k], i, j)):
                         cat_wins += 1
-            if (cat_wins >= 5):
+            if (cat_wins >= 6):
                 wins += 1
         ranks[i]["wins"] = wins
 
@@ -45,7 +45,9 @@ for i in range(len(data)):
         "life_expectancy": data[i]["le_2022"],
         "education": data[i]["eys_2022"],
         "gii": data[i]["gii_2022"],
-        "pop_online": data[i]["pop_online"]
+        "pop_online": data[i]["pop_online"],
+        "prison_pop": data[i]["prison_pop"],
+        "co2_pc": data[i]["co2_pc"]
     })
 
 # Stats that are better closer to zero must be reversed
@@ -58,6 +60,8 @@ rank(ranks, "gnipc", False)
 rank(ranks, "rni_score", False)
 rank(ranks, "hdi", False)
 rank(ranks, "pop_online", False)
+rank(ranks, "prison_pop", True)
+rank(ranks, "co2_pc", True)
 
 calculateWins()
 

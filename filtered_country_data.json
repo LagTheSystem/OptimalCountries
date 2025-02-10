@@ -18,7 +18,9 @@
         "imr": "49",
         "tfr": "3.6",
         "urban_pop_%": "38",
-        "pop_online": 32.9486
+        "pop_online": 32.9486,
+        "prison_pop": 43,
+        "co2_pc": 0.8107597
     },
     {
         "ISO3": "PLW",
@@ -39,7 +41,9 @@
         "imr": "18",
         "tfr": "1.9",
         "urban_pop_%": "82",
-        "pop_online": 26.9703
+        "pop_online": 26.9703,
+        "prison_pop": 373,
+        "co2_pc": 12.525634
     },
     {
         "ISO3": "GAB",
@@ -60,7 +64,9 @@
         "imr": "28",
         "tfr": "3.6",
         "urban_pop_%": "91",
-        "pop_online": 73.6951
+        "pop_online": 73.6951,
+        "prison_pop": 191,
+        "co2_pc": 2.1776206
     },
     {
         "ISO3": "IDN",
@@ -81,7 +87,9 @@
         "imr": "17",
         "tfr": "2.2",
         "urban_pop_%": "59",
-        "pop_online": 69.2084
+        "pop_online": 69.2084,
+        "prison_pop": 93,
+        "co2_pc": 2.607574
     },
     {
         "ISO3": "CMR",
@@ -102,7 +110,9 @@
         "imr": "47",
         "tfr": "4.3",
         "urban_pop_%": "59",
-        "pop_online": 43.8629
+        "pop_online": 43.8629,
+        "prison_pop": 121,
+        "co2_pc": 0.35038647
     },
     {
         "ISO3": "COL",
@@ -123,7 +133,9 @@
         "imr": "10",
         "tfr": "1.4",
         "urban_pop_%": "82",
-        "pop_online": 72.7964
+        "pop_online": 72.7964,
+        "prison_pop": 238,
+        "co2_pc": 2.011398
     },
     {
         "ISO3": "LSO",
@@ -144,7 +156,9 @@
         "imr": "57",
         "tfr": "2.7",
         "urban_pop_%": "30",
-        "pop_online": 47.0368
+        "pop_online": 47.0368,
+        "prison_pop": 92,
+        "co2_pc": 1.6823804
     },
     {
         "ISO3": "COG",
@@ -165,7 +179,9 @@
         "imr": "31",
         "tfr": "3.9",
         "urban_pop_%": "69",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 27,
+        "co2_pc": 1.2412224
     },
     {
         "ISO3": "BDI",
@@ -186,7 +202,9 @@
         "imr": "35",
         "tfr": "4.9",
         "urban_pop_%": "15",
-        "pop_online": 11.275
+        "pop_online": 11.275,
+        "prison_pop": 84,
+        "co2_pc": 0.051842824
     },
     {
         "ISO3": "TTO",
@@ -207,7 +225,9 @@
         "imr": "14",
         "tfr": "1.3",
         "urban_pop_%": "53",
-        "pop_online": 79.9843
+        "pop_online": 79.9843,
+        "prison_pop": 270,
+        "co2_pc": 22.833931
     },
     {
         "ISO3": "FRA",
@@ -228,7 +248,9 @@
         "imr": "3.8",
         "tfr": "1.6",
         "urban_pop_%": "82",
-        "pop_online": 86.8364
+        "pop_online": 86.8364,
+        "prison_pop": 104,
+        "co2_pc": 4.101154
     },
     {
         "ISO3": "ALB",
@@ -249,7 +271,9 @@
         "imr": "8.1",
         "tfr": "1.3",
         "urban_pop_%": "65",
-        "pop_online": 83.1356
+        "pop_online": 83.1356,
+        "prison_pop": 193,
+        "co2_pc": 1.8296235
     },
     {
         "ISO3": "SRB",
@@ -270,7 +294,9 @@
         "imr": "4.7",
         "tfr": "1.6",
         "urban_pop_%": "61",
-        "pop_online": 85.3575
+        "pop_online": 85.3575,
+        "prison_pop": 152,
+        "co2_pc": 6.253731
     },
     {
         "ISO3": "ZMB",
@@ -291,7 +317,9 @@
         "imr": "38",
         "tfr": "4.1",
         "urban_pop_%": "46",
-        "pop_online": 31.2342
+        "pop_online": 31.2342,
+        "prison_pop": 146,
+        "co2_pc": 0.3739111
     },
     {
         "ISO3": "MMR",
@@ -312,7 +340,9 @@
         "imr": "25",
         "tfr": "2.0",
         "urban_pop_%": "32",
-        "pop_online": 44.02167324
+        "pop_online": 44.02167324,
+        "prison_pop": 145,
+        "co2_pc": 0.5584907
     },
     {
         "ISO3": "PAN",
@@ -333,7 +363,9 @@
         "imr": "13.0",
         "tfr": "1.9",
         "urban_pop_%": "72",
-        "pop_online": 73.6085
+        "pop_online": 73.6085,
+        "prison_pop": 390,
+        "co2_pc": 3.1439998
     },
     {
         "ISO3": "NIC",
@@ -354,7 +386,9 @@
         "imr": "14",
         "tfr": "2.2",
         "urban_pop_%": "60",
-        "pop_online": 61.0524
+        "pop_online": 61.0524,
+        "prison_pop": 276,
+        "co2_pc": 0.8189759
     },
     {
         "ISO3": "NOR",
@@ -375,7 +409,9 @@
         "imr": "2.0",
         "tfr": "1.4",
         "urban_pop_%": "84",
-        "pop_online": 99.0
+        "pop_online": 99.0,
+        "prison_pop": 74,
+        "co2_pc": 7.0483475
     },
     {
         "ISO3": "IRL",
@@ -396,7 +432,9 @@
         "imr": "3.3",
         "tfr": "1.6",
         "urban_pop_%": "64",
-        "pop_online": 95.5905
+        "pop_online": 95.5905,
+        "prison_pop": 79,
+        "co2_pc": 6.6259856
     },
     {
         "ISO3": "OMN",
@@ -417,7 +455,9 @@
         "imr": "9",
         "tfr": "2.5",
         "urban_pop_%": "88",
-        "pop_online": 95.2517
+        "pop_online": 95.2517,
+        "prison_pop": 36,
+        "co2_pc": 15.549046
     },
     {
         "ISO3": "SLV",
@@ -438,7 +478,9 @@
         "imr": "10",
         "tfr": "1.8",
         "urban_pop_%": "80",
-        "pop_online": 62.8885
+        "pop_online": 62.8885,
+        "prison_pop": 605,
+        "co2_pc": 1.304397
     },
     {
         "ISO3": "CPV",
@@ -459,7 +501,9 @@
         "imr": "10",
         "tfr": "1.5",
         "urban_pop_%": "74",
-        "pop_online": 72.1021
+        "pop_online": 72.1021,
+        "prison_pop": 10000,
+        "co2_pc": 1.0241876
     },
     {
         "ISO3": "GHA",
@@ -480,7 +524,9 @@
         "imr": "28",
         "tfr": "3.9",
         "urban_pop_%": "59",
-        "pop_online": 69.8405
+        "pop_online": 69.8405,
+        "prison_pop": 50,
+        "co2_pc": 0.58148533
     },
     {
         "ISO3": "AUT",
@@ -501,7 +547,9 @@
         "imr": "2.8",
         "tfr": "1.3",
         "urban_pop_%": "60",
-        "pop_online": 95.3347
+        "pop_online": 95.3347,
+        "prison_pop": 98,
+        "co2_pc": 6.4156914
     },
     {
         "ISO3": "LKA",
@@ -522,7 +570,9 @@
         "imr": "7",
         "tfr": "2.0",
         "urban_pop_%": "19",
-        "pop_online": 50.1067
+        "pop_online": 50.1067,
+        "prison_pop": 94,
+        "co2_pc": 0.884462
     },
     {
         "ISO3": "ARM",
@@ -543,7 +593,9 @@
         "imr": "6.8",
         "tfr": "1.7",
         "urban_pop_%": "64",
-        "pop_online": 77.0277
+        "pop_online": 77.0277,
+        "prison_pop": 131,
+        "co2_pc": 2.58488
     },
     {
         "ISO3": "NRU",
@@ -564,7 +616,9 @@
         "imr": "21",
         "tfr": "3.3",
         "urban_pop_%": "100",
-        "pop_online": 82.6668
+        "pop_online": 82.6668,
+        "prison_pop": 140,
+        "co2_pc": 4.8318486
     },
     {
         "ISO3": "GNQ",
@@ -585,7 +639,9 @@
         "imr": "53",
         "tfr": "4.1",
         "urban_pop_%": "74",
-        "pop_online": 66.8193
+        "pop_online": 66.8193,
+        "prison_pop": 63,
+        "co2_pc": 3.324051
     },
     {
         "ISO3": "TUN",
@@ -606,7 +662,9 @@
         "imr": "9",
         "tfr": "1.6",
         "urban_pop_%": "71",
-        "pop_online": 73.8379
+        "pop_online": 73.8379,
+        "prison_pop": 180,
+        "co2_pc": 2.687845
     },
     {
         "ISO3": "GTM",
@@ -627,7 +685,9 @@
         "imr": "18",
         "tfr": "2.4",
         "urban_pop_%": "53",
-        "pop_online": 54.4043
+        "pop_online": 54.4043,
+        "prison_pop": 136,
+        "co2_pc": 1.1245517
     },
     {
         "ISO3": "SEN",
@@ -648,7 +708,9 @@
         "imr": "31",
         "tfr": "4.0",
         "urban_pop_%": "50",
-        "pop_online": 59.9832
+        "pop_online": 59.9832,
+        "prison_pop": 76,
+        "co2_pc": 0.6583098
     },
     {
         "ISO3": "ERI",
@@ -669,7 +731,9 @@
         "imr": "27",
         "tfr": "3.7",
         "urban_pop_%": "43",
-        "pop_online": 26.5942
+        "pop_online": 26.5942,
+        "prison_pop": 1000,
+        "co2_pc": 0.17887431
     },
     {
         "ISO3": "ESP",
@@ -690,7 +754,9 @@
         "imr": "2.6",
         "tfr": "1.1",
         "urban_pop_%": "82",
-        "pop_online": 95.4456
+        "pop_online": 95.4456,
+        "prison_pop": 128,
+        "co2_pc": 4.625513
     },
     {
         "ISO3": "FJI",
@@ -711,7 +777,9 @@
         "imr": "16",
         "tfr": "2.9",
         "urban_pop_%": "59",
-        "pop_online": 85.2199
+        "pop_online": 85.2199,
+        "prison_pop": 158,
+        "co2_pc": 1.2402219
     },
     {
         "ISO3": "KAZ",
@@ -732,7 +800,9 @@
         "imr": "8",
         "tfr": "2.9",
         "urban_pop_%": "62",
-        "pop_online": 92.8785
+        "pop_online": 92.8785,
+        "prison_pop": 186,
+        "co2_pc": 12.550917
     },
     {
         "ISO3": "BHS",
@@ -753,7 +823,9 @@
         "imr": "10",
         "tfr": "1.4",
         "urban_pop_%": "84",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 438,
+        "co2_pc": 6.2719727
     },
     {
         "ISO3": "BFA",
@@ -774,7 +846,9 @@
         "imr": "30",
         "tfr": "4.4",
         "urban_pop_%": "33",
-        "pop_online": 19.9237
+        "pop_online": 19.9237,
+        "prison_pop": 41,
+        "co2_pc": 0.26868075
     },
     {
         "ISO3": "SLE",
@@ -795,7 +869,9 @@
         "imr": "72",
         "tfr": "3.8",
         "urban_pop_%": "44",
-        "pop_online": 30.3518
+        "pop_online": 30.3518,
+        "prison_pop": 64,
+        "co2_pc": 0.14555909
     },
     {
         "ISO3": "GEO",
@@ -816,7 +892,9 @@
         "imr": "8.2",
         "tfr": "1.7",
         "urban_pop_%": "61",
-        "pop_online": 81.8842
+        "pop_online": 81.8842,
+        "prison_pop": 263,
+        "co2_pc": 3.090994
     },
     {
         "ISO3": "PHL",
@@ -837,7 +915,9 @@
         "imr": "22",
         "tfr": "1.9",
         "urban_pop_%": "54",
-        "pop_online": 75.2111
+        "pop_online": 75.2111,
+        "prison_pop": 172,
+        "co2_pc": 1.3454351
     },
     {
         "ISO3": "ETH",
@@ -858,7 +938,9 @@
         "imr": "30",
         "tfr": "4.0",
         "urban_pop_%": "23",
-        "pop_online": 19.3781
+        "pop_online": 19.3781,
+        "prison_pop": 127,
+        "co2_pc": 0.11832265
     },
     {
         "ISO3": "SAU",
@@ -879,7 +961,9 @@
         "imr": "5",
         "tfr": "2.1",
         "urban_pop_%": "85",
-        "pop_online": 100.0
+        "pop_online": 100.0,
+        "prison_pop": 197,
+        "co2_pc": 22.132002
     },
     {
         "ISO3": "TKM",
@@ -900,7 +984,9 @@
         "imr": "32",
         "tfr": "2.7",
         "urban_pop_%": "54",
-        "pop_online": 21.251
+        "pop_online": 21.251,
+        "prison_pop": 552,
+        "co2_pc": 8.603866
     },
     {
         "ISO3": "MNE",
@@ -921,7 +1007,9 @@
         "imr": "3.6",
         "tfr": "1.8",
         "urban_pop_%": "69",
-        "pop_online": 88.2219
+        "pop_online": 88.2219,
+        "prison_pop": 174,
+        "co2_pc": 3.67509
     },
     {
         "ISO3": "NER",
@@ -942,7 +1030,9 @@
         "imr": "65",
         "tfr": "6.1",
         "urban_pop_%": "17",
-        "pop_online": 16.937
+        "pop_online": 16.937,
+        "prison_pop": 53,
+        "co2_pc": 0.09929846
     },
     {
         "ISO3": "VUT",
@@ -963,7 +1053,9 @@
         "imr": "15",
         "tfr": "3.6",
         "urban_pop_%": "26",
-        "pop_online": 69.8888
+        "pop_online": 69.8888,
+        "prison_pop": 71,
+        "co2_pc": 0.7058317
     },
     {
         "ISO3": "HTI",
@@ -984,7 +1076,9 @@
         "imr": "39",
         "tfr": "2.5",
         "urban_pop_%": "60",
-        "pop_online": 38.94501834
+        "pop_online": 38.94501834,
+        "prison_pop": 96,
+        "co2_pc": 0.3026471
     },
     {
         "ISO3": "MWI",
@@ -1005,7 +1099,9 @@
         "imr": "30",
         "tfr": "3.6",
         "urban_pop_%": "18",
-        "pop_online": 18.0
+        "pop_online": 18.0,
+        "prison_pop": 80,
+        "co2_pc": 0.08303502
     },
     {
         "ISO3": "CHE",
@@ -1026,7 +1122,9 @@
         "imr": "3.8",
         "tfr": "1.3",
         "urban_pop_%": "74",
-        "pop_online": 97.3444
+        "pop_online": 97.3444,
+        "prison_pop": 81,
+        "co2_pc": 3.6905546
     },
     {
         "ISO3": "URY",
@@ -1047,7 +1145,9 @@
         "imr": "5.6",
         "tfr": "1.8",
         "urban_pop_%": "96",
-        "pop_online": 89.873
+        "pop_online": 89.873,
+        "prison_pop": 321,
+        "co2_pc": 2.3216505
     },
     {
         "ISO3": "TCD",
@@ -1068,7 +1168,9 @@
         "imr": "64",
         "tfr": "6.1",
         "urban_pop_%": "24",
-        "pop_online": 12.1839
+        "pop_online": 12.1839,
+        "prison_pop": 59,
+        "co2_pc": 0.1593963
     },
     {
         "ISO3": "UGA",
@@ -1089,7 +1191,9 @@
         "imr": "29",
         "tfr": "4.3",
         "urban_pop_%": "27",
-        "pop_online": 10.0
+        "pop_online": 10.0,
+        "prison_pop": 129,
+        "co2_pc": 0.11537297
     },
     {
         "ISO3": "ZWE",
@@ -1110,7 +1214,9 @@
         "imr": "33",
         "tfr": "3.7",
         "urban_pop_%": "39",
-        "pop_online": 32.5615
+        "pop_online": 32.5615,
+        "prison_pop": 120,
+        "co2_pc": 0.6831985
     },
     {
         "ISO3": "SUR",
@@ -1131,7 +1237,9 @@
         "imr": "14",
         "tfr": "2.2",
         "urban_pop_%": "66",
-        "pop_online": 75.7614
+        "pop_online": 75.7614,
+        "prison_pop": 183,
+        "co2_pc": 4.209699
     },
     {
         "ISO3": "BGR",
@@ -1152,7 +1260,9 @@
         "imr": "4.9",
         "tfr": "1.8",
         "urban_pop_%": "77",
-        "pop_online": 80.3896
+        "pop_online": 80.3896,
+        "prison_pop": 125,
+        "co2_pc": 5.311159
     },
     {
         "ISO3": "PRT",
@@ -1173,7 +1283,9 @@
         "imr": "2.4",
         "tfr": "1.4",
         "urban_pop_%": "68",
-        "pop_online": 85.7901
+        "pop_online": 85.7901,
+        "prison_pop": 127,
+        "co2_pc": 3.5690808
     },
     {
         "ISO3": "ISL",
@@ -1194,7 +1306,9 @@
         "imr": "1.4",
         "tfr": "1.6",
         "urban_pop_%": "94",
-        "pop_online": 99.8565
+        "pop_online": 99.8565,
+        "prison_pop": 38,
+        "co2_pc": 9.70807
     },
     {
         "ISO3": "COM",
@@ -1215,7 +1329,9 @@
         "imr": "30",
         "tfr": "4.3",
         "urban_pop_%": "30",
-        "pop_online": 27.33694319
+        "pop_online": 27.33694319,
+        "prison_pop": 23,
+        "co2_pc": 0.5276767
     },
     {
         "ISO3": "YEM",
@@ -1236,7 +1352,9 @@
         "imr": "35",
         "tfr": "4.6",
         "urban_pop_%": "40",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 53,
+        "co2_pc": 0.2547522
     },
     {
         "ISO3": "TGO",
@@ -1257,7 +1375,9 @@
         "imr": "41",
         "tfr": "4.2",
         "urban_pop_%": "44",
-        "pop_online": 37.6212
+        "pop_online": 37.6212,
+        "prison_pop": 64,
+        "co2_pc": 0.28159267
     },
     {
         "ISO3": "PRY",
@@ -1278,7 +1398,9 @@
         "imr": "14",
         "tfr": "2.4",
         "urban_pop_%": "63",
-        "pop_online": 78.0948
+        "pop_online": 78.0948,
+        "prison_pop": 199,
+        "co2_pc": 1.1892322
     },
     {
         "ISO3": "MEX",
@@ -1299,7 +1421,9 @@
         "imr": "15.3",
         "tfr": "1.6",
         "urban_pop_%": "82",
-        "pop_online": 81.1832
+        "pop_online": 81.1832,
+        "prison_pop": 164,
+        "co2_pc": 3.7199347
     },
     {
         "ISO3": "ITA",
@@ -1320,7 +1444,9 @@
         "imr": "2.3",
         "tfr": "1.2",
         "urban_pop_%": "72",
-        "pop_online": 87.0278
+        "pop_online": 87.0278,
+        "prison_pop": 97,
+        "co2_pc": 5.2682943
     },
     {
         "ISO3": "DNK",
@@ -1341,7 +1467,9 @@
         "imr": "3.5",
         "tfr": "1.5",
         "urban_pop_%": "88",
-        "pop_online": 98.7756
+        "pop_online": 98.7756,
+        "prison_pop": 59,
+        "co2_pc": 4.583753
     },
     {
         "ISO3": "GRD",
@@ -1362,7 +1490,9 @@
         "imr": "13",
         "tfr": "1.5",
         "urban_pop_%": "37",
-        "pop_online": 79.8955
+        "pop_online": 79.8955,
+        "prison_pop": 435,
+        "co2_pc": 2.8982348
     },
     {
         "ISO3": "HND",
@@ -1383,7 +1513,9 @@
         "imr": "14",
         "tfr": "2.4",
         "urban_pop_%": "60",
-        "pop_online": 59.7135
+        "pop_online": 59.7135,
+        "prison_pop": 216,
+        "co2_pc": 1.0373287
     },
     {
         "ISO3": "SVN",
@@ -1404,7 +1536,9 @@
         "imr": "2.5",
         "tfr": "1.6",
         "urban_pop_%": "56",
-        "pop_online": 90.3779
+        "pop_online": 90.3779,
+        "prison_pop": 64,
+        "co2_pc": 5.3476286
     },
     {
         "ISO3": "SMR",
@@ -1425,7 +1559,9 @@
         "imr": "1.1",
         "tfr": "1.1",
         "urban_pop_%": "98",
-        "pop_online": 85.0607
+        "pop_online": 85.0607,
+        "prison_pop": 1000,
+        "co2_pc": 1000
     },
     {
         "ISO3": "KEN",
@@ -1446,7 +1582,9 @@
         "imr": "32",
         "tfr": "3.4",
         "urban_pop_%": "30",
-        "pop_online": 40.8137
+        "pop_online": 40.8137,
+        "prison_pop": 111,
+        "co2_pc": 0.38907528
     },
     {
         "ISO3": "GUY",
@@ -1467,7 +1605,9 @@
         "imr": "21",
         "tfr": "2.4",
         "urban_pop_%": "27",
-        "pop_online": 85.3163
+        "pop_online": 85.3163,
+        "prison_pop": 283,
+        "co2_pc": 4.289983
     },
     {
         "ISO3": "EGY",
@@ -1488,7 +1628,9 @@
         "imr": "19",
         "tfr": "2.6",
         "urban_pop_%": "43",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 116,
+        "co2_pc": 2.3486655
     },
     {
         "ISO3": "JAM",
@@ -1509,7 +1651,9 @@
         "imr": "16",
         "tfr": "1.4",
         "urban_pop_%": "57",
-        "pop_online": 85.1185
+        "pop_online": 85.1185,
+        "prison_pop": 138,
+        "co2_pc": 2.6934075
     },
     {
         "ISO3": "MOZ",
@@ -1530,7 +1674,9 @@
         "imr": "39",
         "tfr": "4.9",
         "urban_pop_%": "39",
-        "pop_online": 21.207
+        "pop_online": 21.207,
+        "prison_pop": 61,
+        "co2_pc": 0.23854154
     },
     {
         "ISO3": "ARE",
@@ -1551,7 +1697,9 @@
         "imr": "3.7",
         "tfr": "1.4",
         "urban_pop_%": "88",
-        "pop_online": 100.0
+        "pop_online": 100.0,
+        "prison_pop": 104,
+        "co2_pc": 21.554382
     },
     {
         "ISO3": "CHN",
@@ -1572,7 +1720,9 @@
         "imr": "5",
         "tfr": "1.0",
         "urban_pop_%": "66",
-        "pop_online": 77.4827
+        "pop_online": 77.4827,
+        "prison_pop": 118,
+        "co2_pc": 8.366814
     },
     {
         "ISO3": "SDN",
@@ -1593,7 +1743,9 @@
         "imr": "36",
         "tfr": "4.3",
         "urban_pop_%": "36",
-        "pop_online": 28.7045
+        "pop_online": 28.7045,
+        "prison_pop": 46,
+        "co2_pc": 0.39968696
     },
     {
         "ISO3": "BHR",
@@ -1614,7 +1766,9 @@
         "imr": "5",
         "tfr": "2.0",
         "urban_pop_%": "90",
-        "pop_online": 100.0
+        "pop_online": 100.0,
+        "prison_pop": 234,
+        "co2_pc": 23.270287
     },
     {
         "ISO3": "NLD",
@@ -1635,7 +1789,9 @@
         "imr": "3.2",
         "tfr": "1.4",
         "urban_pop_%": "93",
-        "pop_online": 97.0068
+        "pop_online": 97.0068,
+        "prison_pop": 59,
+        "co2_pc": 6.5589724
     },
     {
         "ISO3": "MKD",
@@ -1656,7 +1812,9 @@
         "imr": "2",
         "tfr": "1.5",
         "urban_pop_%": "59",
-        "pop_online": 84.2304
+        "pop_online": 84.2304,
+        "prison_pop": 134,
+        "co2_pc": 4.0663958
     },
     {
         "ISO3": "QAT",
@@ -1677,7 +1835,9 @@
         "imr": "3.9",
         "tfr": "1.4",
         "urban_pop_%": "100",
-        "pop_online": 100.0
+        "pop_online": 100.0,
+        "prison_pop": 53,
+        "co2_pc": 38.84137
     },
     {
         "ISO3": "CIV",
@@ -1698,7 +1858,9 @@
         "imr": "52",
         "tfr": "4.3",
         "urban_pop_%": "53",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 1000,
+        "co2_pc": 0.42340207
     },
     {
         "ISO3": "CRI",
@@ -1719,7 +1881,9 @@
         "imr": "9.1",
         "tfr": "1.2",
         "urban_pop_%": "83",
-        "pop_online": 85.127
+        "pop_online": 85.127,
+        "prison_pop": 374,
+        "co2_pc": 1.6215825
     },
     {
         "ISO3": "GBR",
@@ -1740,7 +1904,9 @@
         "imr": "3.7",
         "tfr": "1.6",
         "urban_pop_%": "85",
-        "pop_online": 95.3412
+        "pop_online": 95.3412,
+        "prison_pop": 1000,
+        "co2_pc": 4.4428244
     },
     {
         "ISO3": "FIN",
@@ -1761,7 +1927,9 @@
         "imr": "1.8",
         "tfr": "1.3",
         "urban_pop_%": "86",
-        "pop_online": 93.5139
+        "pop_online": 93.5139,
+        "prison_pop": 52,
+        "co2_pc": 5.6455913
     },
     {
         "ISO3": "KHM",
@@ -1782,7 +1950,9 @@
         "imr": "19",
         "tfr": "2.7",
         "urban_pop_%": "39",
-        "pop_online": 56.7328
+        "pop_online": 56.7328,
+        "prison_pop": 176,
+        "co2_pc": 1.1580912
     },
     {
         "ISO3": "MYS",
@@ -1803,7 +1973,9 @@
         "imr": "6",
         "tfr": "1.6",
         "urban_pop_%": "79",
-        "pop_online": 97.6927
+        "pop_online": 97.6927,
+        "prison_pop": 177,
+        "co2_pc": 8.222435
     },
     {
         "ISO3": "UZB",
@@ -1824,7 +1996,9 @@
         "imr": "8.5",
         "tfr": "3.4",
         "urban_pop_%": "51",
-        "pop_online": 89.0136
+        "pop_online": 89.0136,
+        "prison_pop": 150,
+        "co2_pc": 3.4995894
     },
     {
         "ISO3": "KIR",
@@ -1845,7 +2019,9 @@
         "imr": "43",
         "tfr": "3.1",
         "urban_pop_%": "58",
-        "pop_online": 54.4214
+        "pop_online": 54.4214,
+        "prison_pop": 113,
+        "co2_pc": 0.52059394
     },
     {
         "ISO3": "BRA",
@@ -1866,7 +2042,9 @@
         "imr": "12",
         "tfr": "1.6",
         "urban_pop_%": "88",
-        "pop_online": 84.1506
+        "pop_online": 84.1506,
+        "prison_pop": 323,
+        "co2_pc": 2.3040087
     },
     {
         "ISO3": "CAF",
@@ -1887,7 +2065,9 @@
         "imr": "65",
         "tfr": "6.4",
         "urban_pop_%": "44",
-        "pop_online": 10.58263964
+        "pop_online": 10.58263964,
+        "prison_pop": 16,
+        "co2_pc": 0.054578852
     },
     {
         "ISO3": "ZAF",
@@ -1908,7 +2088,9 @@
         "imr": "23",
         "tfr": "2.4",
         "urban_pop_%": "69",
-        "pop_online": 74.703
+        "pop_online": 74.703,
+        "prison_pop": 280,
+        "co2_pc": 6.357822
     },
     {
         "ISO3": "DJI",
@@ -1929,7 +2111,9 @@
         "imr": "36",
         "tfr": "2.6",
         "urban_pop_%": "79",
-        "pop_online": 65.0322
+        "pop_online": 65.0322,
+        "prison_pop": 66,
+        "co2_pc": 0.42720202
     },
     {
         "ISO3": "MDV",
@@ -1950,7 +2134,9 @@
         "imr": "10",
         "tfr": "1.7",
         "urban_pop_%": "42",
-        "pop_online": 83.9119
+        "pop_online": 83.9119,
+        "prison_pop": 499,
+        "co2_pc": 3.9206648
     },
     {
         "ISO3": "HRV",
@@ -1971,7 +2157,9 @@
         "imr": "4.1",
         "tfr": "1.5",
         "urban_pop_%": "59",
-        "pop_online": 83.2412
+        "pop_online": 83.2412,
+        "prison_pop": 78,
+        "co2_pc": 4.4979396
     },
     {
         "ISO3": "BTN",
@@ -1992,7 +2180,9 @@
         "imr": "19",
         "tfr": "1.5",
         "urban_pop_%": "44",
-        "pop_online": 86.8403
+        "pop_online": 86.8403,
+        "prison_pop": 145,
+        "co2_pc": 2.1783931
     },
     {
         "ISO3": "AZE",
@@ -2013,7 +2203,9 @@
         "imr": "18.1",
         "tfr": "1.6",
         "urban_pop_%": "58",
-        "pop_online": 88.0
+        "pop_online": 88.0,
+        "prison_pop": 235,
+        "co2_pc": 4.2581973
     },
     {
         "ISO3": "SYC",
@@ -2034,7 +2226,9 @@
         "imr": "15.3",
         "tfr": "2.0",
         "urban_pop_%": "59",
-        "pop_online": 86.6654
+        "pop_online": 86.6654,
+        "prison_pop": 437,
+        "co2_pc": 4.3061166
     },
     {
         "ISO3": "AFG",
@@ -2055,7 +2249,9 @@
         "imr": "46",
         "tfr": "4.8",
         "urban_pop_%": "27",
-        "pop_online": 18.4
+        "pop_online": 18.4,
+        "prison_pop": 88,
+        "co2_pc": 0.2658372
     },
     {
         "ISO3": "PNG",
@@ -2076,7 +2272,9 @@
         "imr": "32",
         "tfr": "3.1",
         "urban_pop_%": "14",
-        "pop_online": 26.991
+        "pop_online": 26.991,
+        "prison_pop": 63,
+        "co2_pc": 0.80099183
     },
     {
         "ISO3": "BGD",
@@ -2097,7 +2295,9 @@
         "imr": "23",
         "tfr": "2.2",
         "urban_pop_%": "40",
-        "pop_online": 44.5027
+        "pop_online": 44.5027,
+        "prison_pop": 53,
+        "co2_pc": 0.6615085
     },
     {
         "ISO3": "CYP",
@@ -2118,7 +2318,9 @@
         "imr": "3",
         "tfr": "1.4",
         "urban_pop_%": "67",
-        "pop_online": 91.2212
+        "pop_online": 91.2212,
+        "prison_pop": 83,
+        "co2_pc": 5.3340764
     },
     {
         "ISO3": "MAR",
@@ -2139,7 +2341,9 @@
         "imr": "14",
         "tfr": "2.2",
         "urban_pop_%": "65",
-        "pop_online": 89.9
+        "pop_online": 89.9,
+        "prison_pop": 232,
+        "co2_pc": 1.8208175
     },
     {
         "ISO3": "POL",
@@ -2160,7 +2364,9 @@
         "imr": "4.1",
         "tfr": "1.1",
         "urban_pop_%": "60",
-        "pop_online": 86.4147
+        "pop_online": 86.4147,
+        "prison_pop": 194,
+        "co2_pc": 7.462856
     },
     {
         "ISO3": "IND",
@@ -2181,7 +2387,9 @@
         "imr": "23",
         "tfr": "2.0",
         "urban_pop_%": "36",
-        "pop_online": 43.4054
+        "pop_online": 43.4054,
+        "prison_pop": 33,
+        "co2_pc": 2.129469
     },
     {
         "ISO3": "IRQ",
@@ -2202,7 +2410,9 @@
         "imr": "19",
         "tfr": "3.7",
         "urban_pop_%": "72",
-        "pop_online": 78.7156
+        "pop_online": 78.7156,
+        "prison_pop": 126,
+        "co2_pc": 3.9148452
     },
     {
         "ISO3": "TUV",
@@ -2223,7 +2433,9 @@
         "imr": "16",
         "tfr": "3.2",
         "urban_pop_%": "66",
-        "pop_online": 81.1913
+        "pop_online": 81.1913,
+        "prison_pop": 110,
+        "co2_pc": 1.1690556
     },
     {
         "ISO3": "HUN",
@@ -2244,7 +2456,9 @@
         "imr": "3.1",
         "tfr": "1.5",
         "urban_pop_%": "73",
-        "pop_online": 91.4501
+        "pop_online": 91.4501,
+        "prison_pop": 184,
+        "co2_pc": 4.1491055
     },
     {
         "ISO3": "TON",
@@ -2265,7 +2479,9 @@
         "imr": "10",
         "tfr": "3.2",
         "urban_pop_%": "23",
-        "pop_online": 57.5486
+        "pop_online": 57.5486,
+        "prison_pop": 166,
+        "co2_pc": 1.905395
     },
     {
         "ISO3": "BEN",
@@ -2286,7 +2502,9 @@
         "imr": "45",
         "tfr": "4.7",
         "urban_pop_%": "50",
-        "pop_online": 33.7602
+        "pop_online": 33.7602,
+        "prison_pop": 68,
+        "co2_pc": 0.39630806
     },
     {
         "ISO3": "LUX",
@@ -2307,7 +2525,9 @@
         "imr": "4.3",
         "tfr": "1.3",
         "urban_pop_%": "92",
-        "pop_online": 99.3479
+        "pop_online": 99.3479,
+        "prison_pop": 115,
+        "co2_pc": 10.514379
     },
     {
         "ISO3": "CUB",
@@ -2328,7 +2548,9 @@
         "imr": "4.4",
         "tfr": "1.3",
         "urban_pop_%": "78",
-        "pop_online": 73.2178
+        "pop_online": 73.2178,
+        "prison_pop": 510,
+        "co2_pc": 2.0959692
     },
     {
         "ISO3": "DMA",
@@ -2349,7 +2571,9 @@
         "imr": "28",
         "tfr": "1.5",
         "urban_pop_%": "72",
-        "pop_online": 83.3767
+        "pop_online": 83.3767,
+        "prison_pop": 289,
+        "co2_pc": 2.4508874
     },
     {
         "ISO3": "LIE",
@@ -2370,7 +2594,9 @@
         "imr": "5.3",
         "tfr": "1.5",
         "urban_pop_%": "15",
-        "pop_online": 96.8046
+        "pop_online": 96.8046,
+        "prison_pop": 27,
+        "co2_pc": 3.968552
     },
     {
         "ISO3": "NZL",
@@ -2391,7 +2617,9 @@
         "imr": "3.5",
         "tfr": "1.6",
         "urban_pop_%": "87",
-        "pop_online": 95.7299
+        "pop_online": 95.7299,
+        "prison_pop": 219,
+        "co2_pc": 5.8225737
     },
     {
         "ISO3": "LBY",
@@ -2412,7 +2640,9 @@
         "imr": "16",
         "tfr": "2.4",
         "urban_pop_%": "82",
-        "pop_online": 88.4281
+        "pop_online": 88.4281,
+        "prison_pop": 99,
+        "co2_pc": 8.3463955
     },
     {
         "ISO3": "BEL",
@@ -2433,7 +2663,9 @@
         "imr": "2.9",
         "tfr": "1.5",
         "urban_pop_%": "98",
-        "pop_online": 94.6263
+        "pop_online": 94.6263,
+        "prison_pop": 91,
+        "co2_pc": 7.117667
     },
     {
         "ISO3": "GNB",
@@ -2454,7 +2686,9 @@
         "imr": "49",
         "tfr": "3.8",
         "urban_pop_%": "45",
-        "pop_online": 31.567
+        "pop_online": 31.567,
+        "prison_pop": 10,
+        "co2_pc": 0.1383908
     },
     {
         "ISO3": "MHL",
@@ -2475,7 +2709,9 @@
         "imr": "22",
         "tfr": "2.9",
         "urban_pop_%": "79",
-        "pop_online": 73.2238
+        "pop_online": 73.2238,
+        "prison_pop": 66,
+        "co2_pc": 3.9468455
     },
     {
         "ISO3": "LBR",
@@ -2496,7 +2732,9 @@
         "imr": "56",
         "tfr": "4.0",
         "urban_pop_%": "54",
-        "pop_online": 30.1275
+        "pop_online": 30.1275,
+        "prison_pop": 47,
+        "co2_pc": 0.14035977
     },
     {
         "ISO3": "LVA",
@@ -2517,7 +2755,9 @@
         "imr": "2.6",
         "tfr": "1.4",
         "urban_pop_%": "70",
-        "pop_online": 92.1879
+        "pop_online": 92.1879,
+        "prison_pop": 218,
+        "co2_pc": 3.4598858
     },
     {
         "ISO3": "UKR",
@@ -2538,7 +2778,9 @@
         "imr": "5.9",
         "tfr": "1.0",
         "urban_pop_%": "70",
-        "pop_online": 79.2183
+        "pop_online": 79.2183,
+        "prison_pop": 157,
+        "co2_pc": 3.616495
     },
     {
         "ISO3": "LTU",
@@ -2559,7 +2801,9 @@
         "imr": "3.0",
         "tfr": "1.3",
         "urban_pop_%": "69",
-        "pop_online": 88.5029
+        "pop_online": 88.5029,
+        "prison_pop": 235,
+        "co2_pc": 4.366231
     },
     {
         "ISO3": "GIN",
@@ -2580,7 +2824,9 @@
         "imr": "59",
         "tfr": "4.1",
         "urban_pop_%": "38",
-        "pop_online": 33.923
+        "pop_online": 33.923,
+        "prison_pop": 25,
+        "co2_pc": 0.2806425
     },
     {
         "ISO3": "BWA",
@@ -2601,7 +2847,9 @@
         "imr": "28",
         "tfr": "2.9",
         "urban_pop_%": "73",
-        "pop_online": 77.3272
+        "pop_online": 77.3272,
+        "prison_pop": 208,
+        "co2_pc": 2.7068162
     },
     {
         "ISO3": "LBN",
@@ -2622,7 +2870,9 @@
         "imr": "16",
         "tfr": "2.2",
         "urban_pop_%": "89",
-        "pop_online": 90.0522
+        "pop_online": 90.0522,
+        "prison_pop": 126,
+        "co2_pc": 3.3732545
     },
     {
         "ISO3": "MDG",
@@ -2643,7 +2893,9 @@
         "imr": "45",
         "tfr": "4.1",
         "urban_pop_%": "41",
-        "pop_online": 20.5777
+        "pop_online": 20.5777,
+        "prison_pop": 82,
+        "co2_pc": 0.14349237
     },
     {
         "ISO3": "MRT",
@@ -2664,7 +2916,9 @@
         "imr": "33",
         "tfr": "5.2",
         "urban_pop_%": "58",
-        "pop_online": 44.3616
+        "pop_online": 44.3616,
+        "prison_pop": 46,
+        "co2_pc": 0.8785766
     },
     {
         "ISO3": "SSD",
@@ -2685,7 +2939,9 @@
         "imr": "64",
         "tfr": "3.9",
         "urban_pop_%": "21",
-        "pop_online": 12.1407
+        "pop_online": 12.1407,
+        "prison_pop": 52,
+        "co2_pc": 0.13762994
     },
     {
         "ISO3": "MLI",
@@ -2706,7 +2962,9 @@
         "imr": "61",
         "tfr": "5.7",
         "urban_pop_%": "46",
-        "pop_online": 33.0528
+        "pop_online": 33.0528,
+        "prison_pop": 33,
+        "co2_pc": 0.28447273
     },
     {
         "ISO3": "AGO",
@@ -2727,7 +2985,9 @@
         "imr": "49",
         "tfr": "5.1",
         "urban_pop_%": "69",
-        "pop_online": 39.2935
+        "pop_online": 39.2935,
+        "prison_pop": 93,
+        "co2_pc": 0.5654583
     },
     {
         "ISO3": "SLB",
@@ -2748,7 +3008,9 @@
         "imr": "15",
         "tfr": "3.6",
         "urban_pop_%": "26",
-        "pop_online": 44.9575
+        "pop_online": 44.9575,
+        "prison_pop": 73,
+        "co2_pc": 0.37853009
     },
     {
         "ISO3": "AND",
@@ -2769,7 +3031,9 @@
         "imr": "5.3",
         "tfr": "1.1",
         "urban_pop_%": "88",
-        "pop_online": 94.4855
+        "pop_online": 94.4855,
+        "prison_pop": 69,
+        "co2_pc": 5.2415543
     },
     {
         "ISO3": "DEU",
@@ -2790,7 +3054,9 @@
         "imr": "3.4",
         "tfr": "1.4",
         "urban_pop_%": "78",
-        "pop_online": 92.4764
+        "pop_online": 92.4764,
+        "prison_pop": 78,
+        "co2_pc": 7.0510206
     },
     {
         "ISO3": "SVK",
@@ -2811,7 +3077,9 @@
         "imr": "5.6",
         "tfr": "1.5",
         "urban_pop_%": "54",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 191,
+        "co2_pc": 5.570649
     },
     {
         "ISO3": "MCO",
@@ -2832,7 +3100,9 @@
         "imr": "4",
         "tfr": "2.1",
         "urban_pop_%": "100",
-        "pop_online": 98.3776
+        "pop_online": 98.3776,
+        "prison_pop": 85,
+        "co2_pc": 1000
     },
     {
         "ISO3": "ECU",
@@ -2853,7 +3123,9 @@
         "imr": "11",
         "tfr": "2.2",
         "urban_pop_%": "65",
-        "pop_online": 72.6943
+        "pop_online": 72.6943,
+        "prison_pop": 222,
+        "co2_pc": 2.4011502
     },
     {
         "ISO3": "ARG",
@@ -2874,7 +3146,9 @@
         "imr": "8.0",
         "tfr": "1.5",
         "urban_pop_%": "92",
-        "pop_online": 89.229
+        "pop_online": 89.229,
+        "prison_pop": 186,
+        "co2_pc": 4.299799
     },
     {
         "ISO3": "DOM",
@@ -2895,7 +3169,9 @@
         "imr": "23",
         "tfr": "2.1",
         "urban_pop_%": "84",
-        "pop_online": 84.3832
+        "pop_online": 84.3832,
+        "prison_pop": 241,
+        "co2_pc": 2.8257778
     },
     {
         "ISO3": "MLT",
@@ -2916,7 +3192,9 @@
         "imr": "6.2",
         "tfr": "1.1",
         "urban_pop_%": "95",
-        "pop_online": 91.9155
+        "pop_online": 91.9155,
+        "prison_pop": 133,
+        "co2_pc": 3.419049
     },
     {
         "ISO3": "BLZ",
@@ -2937,7 +3215,9 @@
         "imr": "11",
         "tfr": "2.1",
         "urban_pop_%": "47",
-        "pop_online": 70.354
+        "pop_online": 70.354,
+        "prison_pop": 356,
+        "co2_pc": 1.6246014
     },
     {
         "ISO3": "GMB",
@@ -2958,7 +3238,9 @@
         "imr": "30",
         "tfr": "4.0",
         "urban_pop_%": "64",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 58,
+        "co2_pc": 0.26350594
     },
     {
         "ISO3": "EST",
@@ -2979,7 +3261,9 @@
         "imr": "1.7",
         "tfr": "1.3",
         "urban_pop_%": "70",
-        "pop_online": 93.1834
+        "pop_online": 93.1834,
+        "prison_pop": 197,
+        "co2_pc": 7.3279576
     },
     {
         "ISO3": "JOR",
@@ -3000,7 +3284,9 @@
         "imr": "14",
         "tfr": "2.6",
         "urban_pop_%": "92",
-        "pop_online": 90.5
+        "pop_online": 90.5,
+        "prison_pop": 197,
+        "co2_pc": 1.8523016
     },
     {
         "ISO3": "KGZ",
@@ -3021,7 +3307,9 @@
         "imr": "14.0",
         "tfr": "2.8",
         "urban_pop_%": "38",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 171,
+        "co2_pc": 1.4352598
     },
     {
         "ISO3": "WSM",
@@ -3042,7 +3330,9 @@
         "imr": "15",
         "tfr": "4.4",
         "urban_pop_%": "18",
-        "pop_online": 75.2869
+        "pop_online": 75.2869,
+        "prison_pop": 204,
+        "co2_pc": 1.1853291
     },
     {
         "ISO3": "NGA",
@@ -3063,7 +3353,9 @@
         "imr": "70",
         "tfr": "4.5",
         "urban_pop_%": "54",
-        "pop_online": 35.4563
+        "pop_online": 35.4563,
+        "prison_pop": 37,
+        "co2_pc": 0.5640603
     },
     {
         "ISO3": "THA",
@@ -3084,7 +3376,9 @@
         "imr": "7",
         "tfr": "1.0",
         "urban_pop_%": "62",
-        "pop_online": 89.5352
+        "pop_online": 89.5352,
+        "prison_pop": 520,
+        "co2_pc": 3.6873033
     },
     {
         "ISO3": "ATG",
@@ -3105,7 +3399,9 @@
         "imr": "8",
         "tfr": "1.6",
         "urban_pop_%": "24",
-        "pop_online": 91.4123
+        "pop_online": 91.4123,
+        "prison_pop": 321,
+        "co2_pc": 6.9088745
     },
     {
         "ISO3": "PER",
@@ -3126,7 +3422,9 @@
         "imr": "12",
         "tfr": "2.0",
         "urban_pop_%": "82",
-        "pop_online": 74.675
+        "pop_online": 74.675,
+        "prison_pop": 269,
+        "co2_pc": 1.6505427
     },
     {
         "ISO3": "MNG",
@@ -3147,7 +3445,9 @@
         "imr": "12.0",
         "tfr": "2.7",
         "urban_pop_%": "70",
-        "pop_online": 83.9145
+        "pop_online": 83.9145,
+        "prison_pop": 262,
+        "co2_pc": 13.656992
     },
     {
         "ISO3": "TUR",
@@ -3168,7 +3468,9 @@
         "imr": "10.0",
         "tfr": "1.5",
         "urban_pop_%": "78",
-        "pop_online": 0
+        "pop_online": 0,
+        "prison_pop": 1000,
+        "co2_pc": 4.9510126
     },
     {
         "ISO3": "GRC",
@@ -3189,7 +3491,9 @@
         "imr": "3.1",
         "tfr": "1.3",
         "urban_pop_%": "81",
-        "pop_online": 85.0102
+        "pop_online": 85.0102,
+        "prison_pop": 95,
+        "co2_pc": 5.388723
     },
     {
         "ISO3": "ROU",
@@ -3210,7 +3514,9 @@
         "imr": "4.8",
         "tfr": "1.3",
         "urban_pop_%": "55",
-        "pop_online": 89.2034
+        "pop_online": 89.2034,
+        "prison_pop": 115,
+        "co2_pc": 3.569294
     },
     {
         "ISO3": "CAN",
@@ -3231,7 +3537,9 @@
         "imr": "4.7",
         "tfr": "1.3",
         "urban_pop_%": "82",
-        "pop_online": 94.0
+        "pop_online": 94.0,
+        "prison_pop": 114,
+        "co2_pc": 13.977394
     },
     {
         "ISO3": "AUS",
@@ -3252,7 +3560,9 @@
         "imr": "3.2",
         "tfr": "1.5",
         "urban_pop_%": "90",
-        "pop_online": 94.8762
+        "pop_online": 94.8762,
+        "prison_pop": 167,
+        "co2_pc": 14.478477
     },
     {
         "ISO3": "KWT",
@@ -3273,7 +3583,9 @@
         "imr": "7",
         "tfr": "1.5",
         "urban_pop_%": "100",
-        "pop_online": 99.7473
+        "pop_online": 99.7473,
+        "prison_pop": 157,
+        "co2_pc": 20.507936
     },
     {
         "ISO3": "NAM",
@@ -3294,7 +3606,9 @@
         "imr": "29",
         "tfr": "2.9",
         "urban_pop_%": "55",
-        "pop_online": 62.215
+        "pop_online": 62.215,
+        "prison_pop": 295,
+        "co2_pc": 1.4087288
     },
     {
         "ISO3": "TLS",
@@ -3315,7 +3629,9 @@
         "imr": "46",
         "tfr": "3.6",
         "urban_pop_%": "37",
-        "pop_online": 40.7521
+        "pop_online": 40.7521,
+        "prison_pop": 1000,
+        "co2_pc": 0.4566385
     },
     {
         "ISO3": "CZE",
@@ -3336,7 +3652,9 @@
         "imr": "2.3",
         "tfr": "1.4",
         "urban_pop_%": "75",
-        "pop_online": 85.9941
+        "pop_online": 85.9941,
+        "prison_pop": 206,
+        "co2_pc": 7.921035
     },
     {
         "ISO3": "ISR",
@@ -3357,7 +3675,9 @@
         "imr": "2.6",
         "tfr": "2.8",
         "urban_pop_%": "93",
-        "pop_online": 91.8508
+        "pop_online": 91.8508,
+        "prison_pop": 236,
+        "co2_pc": 6.426912
     },
     {
         "ISO3": "BRB",
@@ -3378,7 +3698,9 @@
         "imr": "9",
         "tfr": "1.7",
         "urban_pop_%": "31",
-        "pop_online": 76.2053
+        "pop_online": 76.2053,
+        "prison_pop": 300,
+        "co2_pc": 4.220813
     },
     {
         "ISO3": "DZA",
@@ -3399,7 +3721,9 @@
         "imr": "19",
         "tfr": "3.0",
         "urban_pop_%": "75",
-        "pop_online": 71.2432
+        "pop_online": 71.2432,
+        "prison_pop": 146,
+        "co2_pc": 3.858676
     },
     {
         "ISO3": "CHL",
@@ -3420,7 +3744,9 @@
         "imr": "6.6",
         "tfr": "1.2",
         "urban_pop_%": "89",
-        "pop_online": 94.1192
+        "pop_online": 94.1192,
+        "prison_pop": 230,
+        "co2_pc": 3.931449
     },
     {
         "ISO3": "MUS",
@@ -3441,7 +3767,9 @@
         "imr": "13.1",
         "tfr": "1.3",
         "urban_pop_%": "41",
-        "pop_online": 75.5
+        "pop_online": 75.5,
+        "prison_pop": 194,
+        "co2_pc": 3.249819
     },
     {
         "ISO3": "JPN",
@@ -3462,7 +3790,9 @@
         "imr": "1.8",
         "tfr": "1.2",
         "urban_pop_%": "92",
-        "pop_online": 84.9234
+        "pop_online": 84.9234,
+        "prison_pop": 45,
+        "co2_pc": 7.950287
     },
     {
         "ISO3": "NPL",
@@ -3483,7 +3813,9 @@
         "imr": "28",
         "tfr": "2.1",
         "urban_pop_%": "22",
-        "pop_online": 49.5609
+        "pop_online": 49.5609,
+        "prison_pop": 65,
+        "co2_pc": 0.56162405
     },
     {
         "ISO3": "SGP",
@@ -3504,7 +3836,9 @@
         "imr": "2.2",
         "tfr": "1.0",
         "urban_pop_%": "100",
-        "pop_online": 94.2863
+        "pop_online": 94.2863,
+        "prison_pop": 201,
+        "co2_pc": 8.507861
     },
     {
         "ISO3": "BLR",
@@ -3525,7 +3859,9 @@
         "imr": "2.1",
         "tfr": "1.5",
         "urban_pop_%": "81",
-        "pop_online": 91.5125
+        "pop_online": 91.5125,
+        "prison_pop": 364,
+        "co2_pc": 6.197099
     },
     {
         "ISO3": "RWA",
@@ -3546,7 +3882,9 @@
         "imr": "34",
         "tfr": "3.6",
         "urban_pop_%": "23",
-        "pop_online": 34.4405
+        "pop_online": 34.4405,
+        "prison_pop": 464,
+        "co2_pc": 0.11037464
     },
     {
         "ISO3": "SWE",
@@ -3567,7 +3905,9 @@
         "imr": "2.1",
         "tfr": "1.5",
         "urban_pop_%": "89",
-        "pop_online": 95.7033
+        "pop_online": 95.7033,
+        "prison_pop": 57,
+        "co2_pc": 3.46456
     },
     {
         "ISO3": "TJK",
@@ -3588,7 +3928,9 @@
         "imr": "23",
         "tfr": "3.6",
         "urban_pop_%": "28",
-        "pop_online": 36.0872
+        "pop_online": 36.0872,
+        "prison_pop": 121,
+        "co2_pc": 0.8714815
     },
     {
         "ISO3": "SOM",
@@ -3609,6 +3951,8 @@
         "imr": "66",
         "tfr": "6.1",
         "urban_pop_%": "48",
-        "pop_online": 27.6
+        "pop_online": 27.6,
+        "prison_pop": 1000,
+        "co2_pc": 0.030373415
     }
 ]
