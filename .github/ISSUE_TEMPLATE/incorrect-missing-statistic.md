@@ -1,6 +1,6 @@
 ---
 name: Incorrect/Missing Statistic
-about: Create a report to help us improve
+about: Create a report to help us improve our accuracy
 title: 'Incorrect/Missing Statistic: <statistic name>'
 labels: ''
 assignees: LagTheSystem
