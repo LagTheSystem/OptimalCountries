@@ -1,4 +1,4 @@
-[
+const ranks = [
     {
         "name": "Sweden",
         "tfr_score": 118,
@@ -2924,3 +2924,5 @@
         "rank": 172
     }
 ]
+
+export default ranks;

@@ -3,7 +3,7 @@ import json
 with open('filtered_country_data.json', 'r') as file:
     data = json.load(file)
 
-data_types = ["tfr_score", "imr", "gii", "education", "life_expectancy", "gnipc", "rni_score", "hdi", "pop_online", "prison_pop", "co2_pc", "literacy_rate"]
+data_types = ["tfr_score", "imr", "gii", "education", "life_expectancy", "gnipc", "rni", "hdi", "pop_online", "prison_pop", "co2_pc", "literacy_rate"]
 
 ranks = []
 
@@ -34,12 +34,11 @@ def calculateWins():
 
 for i in range(len(data)):
     tfr_score = round(-(abs(float(data[i]["tfr"]) - 2.1)), 2)
-    rni_score = round(-(abs(float(data[i]["rni"]))), 2)
     ranks.append({
         "name": data[i]["country"],
         "tfr_score": tfr_score,
         "imr": float(data[i]["imr"]),
-        "rni_score": rni_score,
+        "rni": data[i]["rni"],
         "gnipc": data[i]["gnipc"],
         "hdi": data[i]["hdi"],
         "life_expectancy": data[i]["le"],
@@ -58,7 +57,7 @@ rank(ranks, "gii", True)
 rank(ranks, "education", False)
 rank(ranks, "life_expectancy", False)
 rank(ranks, "gnipc", False)
-rank(ranks, "rni_score", False)
+rank(ranks, "rni", True)
 rank(ranks, "hdi", False)
 rank(ranks, "pop_online", False)
 rank(ranks, "prison_pop", True)

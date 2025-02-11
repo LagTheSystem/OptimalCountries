@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Ranks</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://rawcdn.githack.com/LagTheSystem/cssutils/2a5d7b52f3e372161a62da41b3950a0bd8f4e6c4/cssutils.css">
+    <style>
+        .main table {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Country Ranks</h1>
+        <p>Rankings of all countries based on their indicators.</p>
+    </div>
+    <div class="main">
+        <table id="table">
+            
+        </table>
+    </div>
+    <footer>
+        <p>Made by</p>
+        <a class="gradText" href="https://lagthesystem.dev">LagTheSystem</a>
+        <a class="report" href="https://github.com/LagTheSystem/OptimalCountries/issues/new/choose">Problems? Report here</a>
+    </footer>
+    <script type="module">
+        import data from "./rank_data.js";
+
+        const table = document.getElementById("table");
+
+        for (var i = 0; i < data.length; i++) {
+            let tr = document.createElement("tr")
+            let td1 = document.createElement("td");
+            let td2 = document.createElement("td");
+            td1.innerText = i + 1;
+            td2.innerText = data[i].name;
+            table.appendChild(tr)
+            tr.appendChild(td1)
+            tr.appendChild(td2)
+        }
+    </script>
+</body>
+</html>
