@@ -86,6 +86,7 @@ body {
   color: var(--caput-mortuum);
   font-family: "Playfair Display";
   margin: 0;
+  padding-bottom: 3rem;
 }
 
 .header {
