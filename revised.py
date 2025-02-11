@@ -36,15 +36,15 @@ for i in range(len(data)):
     tfr_score = round(-(abs(float(data[i]["tfr"]) - 2.1)), 2)
     rni_score = round(-(abs(float(data[i]["rni"]))), 2)
     ranks.append({
-        "name": data[i]["Country"],
+        "name": data[i]["country"],
         "tfr_score": tfr_score,
         "imr": float(data[i]["imr"]),
         "rni_score": rni_score,
-        "gnipc": data[i]["gnipc_2022"],
-        "hdi": data[i]["hdi_2022"],
-        "life_expectancy": data[i]["le_2022"],
-        "education": data[i]["eys_2022"],
-        "gii": data[i]["gii_2022"],
+        "gnipc": data[i]["gnipc"],
+        "hdi": data[i]["hdi"],
+        "life_expectancy": data[i]["le"],
+        "education": data[i]["eys"],
+        "gii": data[i]["gii"],
         "pop_online": data[i]["pop_online"],
         "prison_pop": data[i]["prison_pop"],
         "co2_pc": data[i]["co2_pc"],
@@ -67,7 +67,11 @@ rank(ranks, "literacy_rate", False)
 
 calculateWins()
 
-ranks = sorted(ranks, key = lambda d: d["wins"])
+ranks = sorted(ranks, key = lambda d: d["wins"], reverse=True)
+for i in range(len(ranks)):
+        ranks[i]["rank"] = i + 1
+
+
 
 with open("rank.json", "w") as f:
     json.dump(ranks, f)

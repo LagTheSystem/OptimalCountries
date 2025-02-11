@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Country Data</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://rawcdn.githack.com/LagTheSystem/cssutils/2a5d7b52f3e372161a62da41b3950a0bd8f4e6c4/cssutils.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Country Data</h1>
+        <p>Aggregated indicators sourced from the UN, Our World in Data, WorldBank, and others.</p>
+    </div>
+    <div class="main">
+        <select name="countries" id="countries" onchange="selection()">
+
+        </select>
+        <table>
+            <tr>
+                <td>Country</td>
+                <td id="country">Sweden</td>
+            </tr>
+            <tr>
+                <td>Human Development Index</td>
+                <td id="hdi">0.952</td>
+            </tr>
+            <tr>
+                <td>GNI per capita</td>
+                <td id="gnipc">56995.84</td>
+            </tr>
+            <tr>
+                <td>Estimated Years of Schooling</td>
+                <td id="eys">19.03</td>
+            </tr>
+            <tr>
+                <td>Total Fertility Rate</td>
+                <td id="tfr">1.5</td>
+            </tr>
+            <tr>
+                <td>Rate of Natural Increase</td>
+                <td id="rni">0.1</td>
+            </tr>
+            <tr>
+                <td>Infant Mortality Rate</td>
+                <td id="imr">2.1</td>
+            </tr>
+            <tr>
+                <td>Urban Population %</td>
+                <td id="urban_pop_%">89</td>
+            </tr>
+            <tr>
+                <td>% of Population Online</td>
+                <td id="pop_online">95.7</td>
+            </tr>
+            <tr>
+                <td>Prison Population per 100,000</td>
+                <td id="prison_pop">57</td>
+            </tr>
+            <tr>
+                <td>CO2 per capita</td>
+                <td id="co2_pc">3.46</td>
+            </tr>
+            <tr>
+                <td>Literacy Rate</td>
+                <td id="literacy_rate">99</td>
+            </tr>
+            <tr>
+                <td>Gender Inequality Index</td>
+                <td id="gii">0.023</td>
+            </tr>
+            <tr>
+                <td>Life Expectancy</td>
+                <td id="le">83.5</td>
+            </tr>
+        </table>
+    </div>
+    <footer>
+        <p>Made by</p>
+        <a class="gradText" href="https://lagthesystem.dev">LagTheSystem</a>
+        <a class="report" href="https://github.com/LagTheSystem/OptimalCountries/issues/new/choose">Problems? Report here</a>
+    </footer>
+    <script type="module" src="index.js"></script>
+</body>
+</html>

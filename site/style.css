@@ -1,0 +1,178 @@
+/* Color scheme from Coolors.co */
+:root {
+    --tangerine: #f18805ff;
+    --cinnabar: #d95d39ff;
+    --lemon-chiffon: #f2efc7ff;
+    --space-cadet: #202c59ff;
+    --caput-mortuum: #581f18ff;
+}
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Prevent font size inflation */
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+/* Remove default margin in favour of better control in authored CSS */
+body, h1, h2, h3, h4, p,
+figure, blockquote, dl, dd {
+  margin-block-end: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role='list'],
+ol[role='list'] {
+  list-style: none;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* Set shorter line heights on headings and interactive elements */
+h1, h2, h3, h4,
+button, input, label {
+  line-height: 1.1;
+}
+
+/* Balance text wrapping on headings */
+h1, h2,
+h3, h4 {
+  text-wrap: balance;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+  color: currentColor;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input, button,
+textarea, select {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+/* Make sure textareas without a rows attribute are not tiny */
+textarea:not([rows]) {
+  min-height: 10em;
+}
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+  scroll-margin-block: 5ex;
+}
+
+body {
+  background-color: var(--lemon-chiffon);
+  color: var(--caput-mortuum);
+  font-family: "Playfair Display";
+  margin: 0;
+}
+
+.header {
+  margin-left: 4rem;
+  margin-right: 10rem;
+  margin-top: 4.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 8rem;
+  padding-left: 0.5rem;
+  border-bottom: 2px solid var(--caput-mortuum);
+  border-top: 2px solid var(--caput-mortuum);
+}
+
+.header h1 {
+  font-size: 6rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Outfit";
+  margin: 4rem 8rem;
+  padding: .5rem;
+  background-color: rgba(0, 0, 0, 5%);
+}
+
+.main select {
+  background-color: var(--lemon-chiffon);
+  outline: none;
+  border: 1px solid var(--caput-mortuum);
+  padding: 12px 10px;
+  width: 100%;
+  border-radius: 0;
+}
+
+.main table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+.main table td {
+  padding: 12px;
+  border-bottom: 1px solid var(--caput-mortuum);
+}
+
+.main table td:nth-child(2) {
+  border-left: 1px solid var(--caput-mortuum);
+  background-color: var(--lemon-chiffon)
+}
+
+.main table tr:last-child td {
+  border-bottom: none;
+}
+
+footer {
+  border-top: 1px solid var(--caput-mortuum);
+  display: flex;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  font-family: "Outfit";
+  background-color: var(--lemon-chiffon)
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: var(--caput-mortuum);
+}
+
+.report {
+  position: absolute;
+  right: 10px;
+}
+
+.report:hover {
+  text-decoration: underline;
+}
+
+.gradText {
+  margin-left: 5px;
+  background-image: -webkit-linear-gradient(0deg, #ff738e, #da6fe1, #997efa);
+}
