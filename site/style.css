@@ -120,6 +120,7 @@ body {
   padding: 12px 10px;
   width: 100%;
   border-radius: 0;
+  color: var(--caput-mortuum);
 }
 
 .main table {
@@ -175,4 +176,26 @@ footer a {
 .gradText {
   margin-left: 5px;
   background-image: -webkit-linear-gradient(0deg, #ff738e, #da6fe1, #997efa);
+}
+
+@media screen and (max-width: 800px) {
+  .main {
+    margin: 4rem;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .main {
+    margin: 1rem;
+  }
+  .header {
+    border: none;
+    margin: 0;
+    padding-left: 0;
+    padding-bottom: 4rem;
+    text-align: center;
+  }
+  .header h1 {
+    font-size: 5rem;
+  }
 }
