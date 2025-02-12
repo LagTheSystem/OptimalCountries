@@ -2672,6 +2672,22 @@ const data = [
     "literacy_rate": 99
   },
   {
+    "country": "United States",
+    "hdi": 0.927,
+    "le": 78.2,
+    "eys": 16.4,
+    "gnipc": 65565,
+    "gii": 0.18,
+    "rni": "0.1",
+    "imr": "5.6",
+    "tfr": "1.6",
+    "urban_pop_%": "83",
+    "pop_online": 96.78,
+    "prison_pop": 655,
+    "co2_pc": 14.3,
+    "literacy_rate": 99
+  },
+  {
     "country": "Uruguay",
     "hdi": 0.83,
     "le": 78,
@@ -2685,7 +2701,7 @@ const data = [
     "pop_online": 89.873,
     "prison_pop": 321,
     "co2_pc": 2.3216505,
-    "literacy_rate": 99.0
+    "literacy_rate": 99
   },
   {
     "country": "Uzbekistan",
