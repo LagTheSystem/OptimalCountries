@@ -1115,7 +1115,7 @@
         "tfr": "1.1",
         "urban_pop_%": "98",
         "pop_online": 85.0607,
-        "prison_pop": 1000,
+        "prison_pop": 0,
         "co2_pc": 1000,
         "literacy_rate": 100.0
     },
