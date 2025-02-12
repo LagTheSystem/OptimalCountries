@@ -66,10 +66,18 @@
     {
         "country": "Iran",
         "hdi": 0.780,
-        "le": 74.6,
-        "eys": 14.1,
-        "gnipc": 14770,
-        "gii": 0.484
+        "le": 74.556,
+        "eys": 14.11717033,
+        "gnipc": 14770.32307,
+        "gii": 0.484,
+        "rni": "0.7",
+        "imr": "10",
+        "tfr": "1.7",
+        "urban_pop_%": "77",
+        "pop_online": 78.6,
+        "prison_pop": 284,
+        "co2_pc": 7.825883093,
+        "literacy_rate": 89
     },
     {
         "country": "Cameroon",
@@ -648,7 +656,7 @@
         "literacy_rate": 98.0
     },
     {
-        "country": "`Ethiopia",
+        "country": "Ethiopia",
         "hdi": 0.492,
         "le": 65.645,
         "eys": 9.938743514,
