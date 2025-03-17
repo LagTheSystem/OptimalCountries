@@ -16,7 +16,6 @@ def isBetter(dict, key, index1, index2):
     if (dict[index1][key] > dict[index2][key]):
         return True
 
-
 def calculateWins():
     for i in range(len(ranks)):
         wins = 0
@@ -69,8 +68,6 @@ calculateWins()
 ranks = sorted(ranks, key = lambda d: d["wins"], reverse=True)
 for i in range(len(ranks)):
         ranks[i]["rank"] = i + 1
-
-
 
 with open("rank.json", "w") as f:
     json.dump(ranks, f)

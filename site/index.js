@@ -6,12 +6,12 @@ function findIndex() {
     return data.findIndex(obj => obj.country === select.value);
 }
 
-for (var i = 0; i < data.length; i++) {
-    let o = document.createElement("option");
-    o.innerText = data[i].country;
-    o.value = data[i].country;
+data.forEach((c) => {
+    const o = document.createElement("option");
+    o.innerText = c.country;
+    o.value = c.country;
     select.appendChild(o);
-}
+})
 
 var countryKeys = Object.keys(data[findIndex()]);
 
