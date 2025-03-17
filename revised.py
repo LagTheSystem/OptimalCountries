@@ -7,20 +7,20 @@ data_types = ["tfr_score", "imr", "gii", "education", "life_expectancy", "gnipc"
 
 ranks = []
 
-def rank(dict, key, reversed):
-    dict = sorted(dict, key = lambda d: d[key], reverse=reversed)
-    for i, entry in enumerate(dict):
+def rank(dic, key, reversed):
+    dic = sorted(dic, key = lambda d: d[key], reverse=reversed)
+    for i, entry in enumerate(dic):
         entry[key] = i
 
-def isBetter(dict, key, index1, index2):
-    if (dict[index1][key] > dict[index2][key]):
+def isBetter(dic, key, index1, index2):
+    if dic[index1][key] > dic[index2][key]:
         return True
 
 def calculateWins():
     for i, entry in enumerate(ranks):
         wins = 0
         entry["wins"] = 0
-        for j, opponent in enumerate(ranks):
+        for j, _ in enumerate(ranks):
             if j != i:
                 cat_wins = sum(1 for k in data_types if isBetter(ranks, k, i, j))
                 if cat_wins >= 6:

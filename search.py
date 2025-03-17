@@ -6,5 +6,4 @@ with open('filtered_country_data.json', 'r') as file:
 for i, entry in enumerate(data):
     if "literacy_rate" in entry:
         continue
-    else:
-        print(data[i]["Country"])
+    print(data[i]["Country"])

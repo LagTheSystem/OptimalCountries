@@ -23,4 +23,3 @@ sorted_content += "\nexport default data;"
 # Save the sorted data back to a new file
 with open(sorted_js_path, "w", encoding="utf-8") as sorted_file:
     sorted_file.write(sorted_content)
-
