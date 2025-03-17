@@ -40,26 +40,26 @@ def calculateWins():
                     wins += 1
         entry["wins"] = wins
 
-for entry in data:
-    tfr_score = round(-(abs(float(entry["tfr"]) - 2.1)), 2)
+for country in data:
+    tfr_score = round(-(abs(float(country["tfr"]) - 2.1)), 2)
     ranks.append({
-        "name": entry["country"],
+        "name": country["country"],
         "tfr_score": tfr_score,
-        "imr": float(entry["imr"]),
-        "rni": entry["rni"],
-        "gnipc": entry["gnipc"],
-        "hdi": entry["hdi"],
-        "life_expectancy": entry["le"],
-        "education": entry["eys"],
-        "gii": entry["gii"],
-        "pop_online": entry["pop_online"],
-        "prison_pop": entry["prison_pop"],
-        "co2_pc": entry["co2_pc"],
-        "literacy_rate": entry["literacy_rate"]
+        "imr": float(country["imr"]),
+        "rni": country["rni"],
+        "gnipc": country["gnipc"],
+        "hdi": country["hdi"],
+        "life_expectancy": country["le"],
+        "education": country["eys"],
+        "gii": country["gii"],
+        "pop_online": country["pop_online"],
+        "prison_pop": country["prison_pop"],
+        "co2_pc": country["co2_pc"],
+        "literacy_rate": country["literacy_rate"]
     })
 
-for type, isReversed in data_types:
-    rank(ranks, type, isReversed)
+for indicator, isReversed in data_types:
+    rank(ranks, indicator, isReversed)
 
 calculateWins()
 
