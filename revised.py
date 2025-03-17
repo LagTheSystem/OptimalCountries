@@ -9,44 +9,40 @@ ranks = []
 
 def rank(dict, key, reversed):
     dict = sorted(dict, key = lambda d: d[key], reverse=reversed)
-    for i in range(len(ranks)):
-        dict[i][key] = i
+    for i, entry in enumerate(dict):
+        entry[key] = i
 
 def isBetter(dict, key, index1, index2):
     if (dict[index1][key] > dict[index2][key]):
         return True
 
 def calculateWins():
-    for i in range(len(ranks)):
+    for i, entry in enumerate(ranks):
         wins = 0
-        ranks[i]["wins"] = 0
-        for j in range(len(ranks)):
-            cat_wins = 0
-            if (j != i):
-                for k in range(len(data_types)):
-                    if (isBetter(ranks, data_types[k], i, j)):
-                        cat_wins += 1
-            if (cat_wins >= 6):
-                wins += 1
-        ranks[i]["wins"] = wins
+        entry["wins"] = 0
+        for j, opponent in enumerate(ranks):
+            if j != i:
+                cat_wins = sum(1 for k in data_types if isBetter(ranks, k, i, j))
+                if cat_wins >= 6:
+                    wins += 1
+        entry["wins"] = wins
 
-
-for i in range(len(data)):
-    tfr_score = round(-(abs(float(data[i]["tfr"]) - 2.1)), 2)
+for entry in data:
+    tfr_score = round(-(abs(float(entry["tfr"]) - 2.1)), 2)
     ranks.append({
-        "name": data[i]["country"],
+        "name": entry["country"],
         "tfr_score": tfr_score,
-        "imr": float(data[i]["imr"]),
-        "rni": data[i]["rni"],
-        "gnipc": data[i]["gnipc"],
-        "hdi": data[i]["hdi"],
-        "life_expectancy": data[i]["le"],
-        "education": data[i]["eys"],
-        "gii": data[i]["gii"],
-        "pop_online": data[i]["pop_online"],
-        "prison_pop": data[i]["prison_pop"],
-        "co2_pc": data[i]["co2_pc"],
-        "literacy_rate": data[i]["literacy_rate"]
+        "imr": float(entry["imr"]),
+        "rni": entry["rni"],
+        "gnipc": entry["gnipc"],
+        "hdi": entry["hdi"],
+        "life_expectancy": entry["le"],
+        "education": entry["eys"],
+        "gii": entry["gii"],
+        "pop_online": entry["pop_online"],
+        "prison_pop": entry["prison_pop"],
+        "co2_pc": entry["co2_pc"],
+        "literacy_rate": entry["literacy_rate"]
     })
 
 # Stats that are better closer to zero must be reversed
@@ -66,8 +62,8 @@ rank(ranks, "literacy_rate", False)
 calculateWins()
 
 ranks = sorted(ranks, key = lambda d: d["wins"], reverse=True)
-for i in range(len(ranks)):
-        ranks[i]["rank"] = i + 1
+for i, entry in enumerate(ranks):
+    entry["rank"] = i + 1
 
 with open("rank.json", "w") as f:
     json.dump(ranks, f)
