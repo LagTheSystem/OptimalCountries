@@ -2,6 +2,10 @@ import data from "./country_data.js"
 
 const select = document.getElementById("countries")
 
+/**
+ * Function to find the index of the country in the data array based on the selected value
+ * @returns {number} index of the country in the data array
+ */
 function findIndex() {
     return data.findIndex(obj => obj.country === select.value);
 }
