@@ -23,7 +23,7 @@ function selection() {
     for (let i = 0; i < countryKeys.length; i++) {
         const item = document.getElementById(countryKeys[i]);
         const itemValue = data[findIndex()][countryKeys[i]];
-        if (itemValue == 1000) {
+        if (itemValue == 1000 || itemValue == 0) {
             item.innerText = "No Data";
         } else {
             item.innerText = itemValue;
