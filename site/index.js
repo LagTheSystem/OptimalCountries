@@ -18,7 +18,12 @@ const countryKeys = Object.keys(data[findIndex()]);
 function selection() {
     for (let i = 0; i < countryKeys.length; i++) {
         const item = document.getElementById(countryKeys[i]);
-        item.innerHTML = data[findIndex()][countryKeys[i]];
+        const itemValue = data[findIndex()][countryKeys[i]];
+        if (itemValue == 1000) {
+            item.innerText = "No Data";
+        } else {
+            item.innerText = itemValue;
+        }
     }
 }
 window.selection = selection;
