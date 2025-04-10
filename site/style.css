@@ -202,6 +202,8 @@ footer a {
 .gradText {
   margin-left: 5px;
   background-image: -webkit-linear-gradient(0deg, #ff738e, #da6fe1, #997efa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 @media screen and (max-width: 800px) {
